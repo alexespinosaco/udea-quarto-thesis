@@ -15,10 +15,33 @@ contributes:
     
     common:
       toc: true
+      toc-depth: 5
+      number-sections: true
+      number-depth: 5
+      lof: true
+      lot: true
     
-    pdf:
-      toc: true
-      # include-in-header: header.tex
+    pdf: 
+      papersize: letterpaper
+      geometry:
+        - hmargin=2.5cm
+        - top=2.5cm
+        - bottom=2.5cm
+        - marginpar=2.5cm
+      mainfont: "Times New Roman"
+      fontsize: 12pt
+      # indent: 1.25cm
+      # linestretch: 1.2
+      linkcolor: blue
+      urlcolor: blue
+      citecolor: red
+      toccolor: blue
+      link-citations: true
+      include-in-header: 
+        - header.tex
+        - toc.tex
+      # template-partials:
+      # - before-body.tex
     
     html:
       css: styles.css
