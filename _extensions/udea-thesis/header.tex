@@ -1,0 +1,46 @@
+% TODO: Add custom LaTeX header directives here
+
+\setlength{\parindent}{1.25cm} % sangria
+\renewcommand{\baselinestretch}{1.2} % interlineado
+\setlength{\parskip}{1em} % espacio entre parrafos
+
+\renewcommand\raggedchapter{\centering}
+\RedeclareSectionCommand[
+  beforeskip=1em,
+  afterskip=1em,
+  font=\normalfont\normalsize\bfseries
+]{chapter}
+
+\RedeclareSectionCommand[
+  beforeskip=1em,
+  afterskip=1em,
+  font=\normalfont\normalsize\bfseries
+]{section}
+
+\RedeclareSectionCommand[
+  beforeskip=1em,
+  afterskip=1em,
+  font=\normalfont\normalsize\bfseries\itshape
+]{subsection}
+
+\RedeclareSectionCommand[
+  beforeskip=1em,
+  afterskip=1em,
+  font=\normalfont\normalsize\bfseries,
+  runin=true,
+  indent=1.3cm,
+]{subsubsection}
+
+\let\oldsubsubsection\subsubsection
+\renewcommand{\subsubsection}[1]{\oldsubsubsection{#1.}}
+
+\RedeclareSectionCommand[
+  beforeskip=1em,
+  afterskip=1em,
+  font=\normalfont\normalsize\bfseries\itshape,
+  runin=true,
+  indent=1.3cm,
+]{paragraph}
+
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1.}}
