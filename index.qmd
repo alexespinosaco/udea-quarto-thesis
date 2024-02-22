@@ -20,16 +20,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus se
 
 Esta es la @tbl-tabla.
 
-![Portada APA](images/portadaAPA2020.jpg){#fig-portada width=50%}
+![Portada APA](images/portadaAPA2020.jpg){#fig-portada width=20%}
 
-Esta es la @fig-portada. 
+Esta es la @fig-portada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellus sagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitae pulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus augue quis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquet lacus, vitae rhoncus purus magna id ante. Cras sollicitudin, nisl at interdum posuere, turpis quam pharetra turpis, a tristique quam magna tincidunt nisi. Praesent lacinia sapien eget turpis consectetur, nec sollicitudin odio laoreet. Sed eu molestie risus. Donec in est est. Sed vitae lobortis tortor.
 
-Como se vio en @CameronTrivedi2013.
+Como se vio en @CameronTrivedi2013. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellus sagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitae pulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus augue quis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquet lacus, vitae rhoncus purus magna id ante. Cras sollicitudin, nisl at interdum posuere, turpis quam pharetra turpis, a tristique quam magna tincidunt nisi. Praesent lacinia sapien eget turpis consectetur, nec sollicitudin odio laoreet. Sed eu molestie risus. Donec in est est. Sed vitae lobortis tortor.
 
-Esta es una [@CameronTrivedi2013].
+Esta es una [@CameronTrivedi2013]. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellus sagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitae pulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus augue quis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquet lacus, vitae rhoncus purus magna id ante. Cras sollicitudin, nisl at interdum posuere, turpis quam pharetra turpis, a tristique quam magna tincidunt nisi. Praesent lacinia sapien eget turpis consectetur, nec sollicitudin odio laoreet. Sed eu molestie risus. Donec in est est. Sed vitae lobortis tortor.
 
 Esto es una lista:
 
+* unordered list
+* unordered list
+* unordered list
 * unordered list
     + sub-item 1
     + sub-item 2
