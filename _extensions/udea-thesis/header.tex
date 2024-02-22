@@ -1,8 +1,27 @@
 % TODO: Add custom LaTeX header directives here
+\usepackage{xcolor}
+\usepackage{scrlayer-scrpage}
+
 
 \setlength{\parindent}{1.25cm} % sangria
 \renewcommand{\baselinestretch}{1.2} % interlineado
 \setlength{\parskip}{1em} % espacio entre parrafos
+
+\definecolor{verdeUdeA}{RGB}{83,129,53} % color de la UdeA
+
+\KOMAoptions{
+  headsepline=1pt, % grosor linea en head
+  automark,
+  autooneside=false
+}
+\pagestyle{scrheadings} % necesario para poner linea en head
+\setkomafont{headsepline}{\color{verdeUdeA}} % color linea en head
+
+\clearpairofpagestyles % Necesario para poner el número en posición
+\ohead{\pagemark} % número de página en esquina superior derecha
+\ihead{\leftmark}
+
+% configuración de diferentes niveles de los headers
 
 \renewcommand\raggedchapter{\centering}
 \RedeclareSectionCommand[
@@ -28,19 +47,31 @@
   afterskip=1em,
   font=\normalfont\normalsize\bfseries,
   runin=true,
-  indent=1.3cm,
+  % indent=1.3cm
 ]{subsubsection}
 
-\let\oldsubsubsection\subsubsection
-\renewcommand{\subsubsection}[1]{\oldsubsubsection{#1.}}
+% \let\oldsubsubsection\subsubsection
+% \renewcommand{\subsubsection}[1]{\oldsubsubsection{#1.}}
 
 \RedeclareSectionCommand[
   beforeskip=1em,
   afterskip=1em,
   font=\normalfont\normalsize\bfseries\itshape,
   runin=true,
-  indent=1.3cm,
+  indent=1.3cm
 ]{paragraph}
 
-\let\oldparagraph\paragraph
-\renewcommand{\paragraph}[1]{\oldparagraph{#1.}}
+% \let\oldparagraph\paragraph
+% \renewcommand{\paragraph}[1]{\oldparagraph{#1.}}
+
+\makeatletter
+\renewcommand{\sectionlinesformat}[4]{%
+  \Ifstr{#1}{chapter}{\centering}{}% center section titles
+  \@hangfrom{\hskip #2#3}{#4}%
+}
+\makeatother
+\renewcommand{\sectioncatchphraseformat}[4]{%
+  \hskip #2#3#4%
+  \Ifstr{#1}{subsubsection}{.}{}% dot after subsection titles
+  \Ifstr{#1}{paragraph}{.}{}
+}
