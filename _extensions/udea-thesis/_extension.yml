@@ -22,6 +22,7 @@ contributes:
       lot: true
     
     pdf: 
+      documentclass: scrreprt
       papersize: letterpaper
       geometry:
         - hmargin=2.5cm
