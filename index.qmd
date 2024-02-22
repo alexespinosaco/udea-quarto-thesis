@@ -1,4 +1,4 @@
-# Header 1
+# Header 1 {.unnumbered}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellus sagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitae pulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus augue quis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquet lacus, vitae rhoncus purus magna id ante. Cras sollicitudin, nisl at interdum posuere, turpis quam pharetra turpis, a tristique quam magna tincidunt nisi. Praesent lacinia sapien eget turpis consectetur, nec sollicitudin odio laoreet. Sed eu molestie risus. Donec in est est. Sed vitae lobortis tortor.
 
