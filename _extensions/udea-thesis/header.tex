@@ -75,3 +75,9 @@
   \Ifstr{#1}{subsubsection}{.}{}% dot after subsection titles
   \Ifstr{#1}{paragraph}{.}{}
 }
+
+
+
+% Define el símbolo para el primer nivel de la lista de viñetas
+\usepackage{enumitem}
+\setlist[itemize,1]{label={\textbullet}, leftmargin=*}
