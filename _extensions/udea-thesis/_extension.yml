@@ -11,16 +11,22 @@ contributes:
       sidebar:
         style: "floating"
       search: true
+    crossref:
+      lot-title: "Lista de tablas"
+      lof-title: "Lista de figuras"
+
   formats:
     
     common:
       toc: true
+      toc-title: "Índice"
       toc-depth: 5
       number-sections: true
       number-depth: 5
-      lof: true
       lot: true
-    
+      lof: true
+      cap-location: top
+
     pdf: 
       documentclass: scrreprt
       papersize: letterpaper
@@ -29,7 +35,7 @@ contributes:
         - top=2.5cm
         - bottom=2.5cm
         - marginpar=2.5cm
-      mainfont: "Times New Roman"
+      mainfont: Times New Roman
       fontsize: 12pt
       # indent: 1.25cm
       # linestretch: 1.2
@@ -46,4 +52,5 @@ contributes:
     
     html:
       css: styles.css
+
 

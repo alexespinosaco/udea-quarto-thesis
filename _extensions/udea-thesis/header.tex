@@ -19,7 +19,7 @@
 
 \clearpairofpagestyles % Necesario para poner el número en posición
 \ohead{\pagemark} % número de página en esquina superior derecha
-\ihead{\leftmark}
+\ihead{\leftmark} % título del capítulo en esquina superior izquierda
 
 % configuración de diferentes niveles de los headers
 
@@ -47,11 +47,8 @@
   afterskip=1em,
   font=\normalfont\normalsize\bfseries,
   runin=true,
-  % indent=1.3cm
+  indent=1.3cm
 ]{subsubsection}
-
-% \let\oldsubsubsection\subsubsection
-% \renewcommand{\subsubsection}[1]{\oldsubsubsection{#1.}}
 
 \RedeclareSectionCommand[
   beforeskip=1em,
@@ -61,8 +58,7 @@
   indent=1.3cm
 ]{paragraph}
 
-% \let\oldparagraph\paragraph
-% \renewcommand{\paragraph}[1]{\oldparagraph{#1.}}
+% agrega el punto al final de los header de 4 y 5 nivel.
 
 \makeatletter
 \renewcommand{\sectionlinesformat}[4]{%
@@ -76,7 +72,13 @@
   \Ifstr{#1}{paragraph}{.}{}
 }
 
+% Define el formato de las leyendas y descripciones de las figuras y tablas
 
+\KOMAoption{captions}{nooneline}
+\setkomafont{caption}{\itshape}
+\setkomafont{captionlabel}{\normalfont\bfseries}
+\setcapindent*{0pt}
+\renewcommand*{\captionformat}{}
 
 % Define el símbolo para el primer nivel de la lista de viñetas
 \usepackage{enumitem}
