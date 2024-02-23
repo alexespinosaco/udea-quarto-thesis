@@ -1,0 +1,57 @@
+\usepackage[hmargin={2.5 cm,2.5cm}, top=2.5cm, marginpar=2.5cm]{geometry}
+\usepackage[spanish,activeacute]{babel} %-----tildes  [spanish,activeacute,es-tabla]
+\usepackage[pdftex]{graphicx}
+\usepackage{amsmath, amssymb}%-----estructuras matemáticas
+\usepackage{caption}
+\captionsetup[table]{labelfont={bf}, textfont={it} ,labelformat={default}, labelsep=newline, name={Tabla },justification=raggedright,singlelinecheck=false} %-----formato del caption table
+\captionsetup[figure]{labelfont={bf}, textfont={it} ,labelformat={default}, labelsep=newline, name={Figura }, justification=raggedright,singlelinecheck=false} %-----formato del caption figure
+\usepackage{hyperref}
+   \hypersetup{colorlinks, linkcolor=blue, urlcolor=blue, citecolor={red}}
+\usepackage{pstricks-add}
+\usepackage{longtable}
+\usepackage{pst-all}
+\usepackage{verbatim}%-----para mostrar comnados 
+\usepackage{hhline, colortbl}
+\usepackage{color}
+\usepackage{array}
+\usepackage{enumitem}
+
+
+
+\usepackage[round]{natbib}%-----paquete de bibliografia
+\usepackage{multibib}
+\newcites{Legal}{Referencias Legales}
+
+\setlength{\parindent}{1.25cm}%sangria
+\renewcommand{\baselinestretch}{1.2}%interlineado
+\setlength{\parskip}{1em}%espacio entre parrafos
+
+\renewcommand{\labelitemi}{$\bullet $}
+\setlist[itemize]{leftmargin=*}
+
+\usepackage{titletoc}
+\titlecontents{section}[0.1em]{\smallskip}{\enspace\thecontentslabel\hspace{1em}} {\hspace*{}} {\titlerule*[1pc]{.}\contentspage}
+
+\setcounter{tocdepth}{5}
+\setcounter{secnumdepth}{5}%define el contador para los 5 niveles de titulo
+
+\usepackage{titlesec}
+\titleformat{\section}{\centering\normalfont\normalsize\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\normalfont\normalsize\bfseries}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}{\itshape\normalsize\bfseries}{\thesubsubsection}{1em}{}
+\titleformat{\paragraph}[runin]{\normalfont\normalsize\bfseries}{\hspace{1.3cm}\theparagraph}{1em}{}
+\titleformat{\subparagraph}[runin]{\itshape\normalsize\bfseries}{\thesubparagraph}{1em}{}
+
+
+\usepackage{fancyhdr}
+
+\definecolor{verdeUdeA}{rgb}{0.325,0.506,0.208} %rgb=83,129,53
+
+\setlength{\headheight}{25pt}
+\renewcommand{\headrule}{{\color{verdeUdeA}\rule{\textwidth}{1pt}}}
+\renewcommand{\headrulewidth}{2pt}
+\lhead{\footnotesize\MakeUppercase{\smalltitulo }}\chead{}\rhead{{\color{white}Rufino}\thepage} %borrar los encabezados
+\cfoot{}
+
+
+

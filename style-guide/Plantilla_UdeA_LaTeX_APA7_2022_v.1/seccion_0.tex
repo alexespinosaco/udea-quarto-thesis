@@ -1,0 +1,156 @@
+% tipo de fuente:
+%Aunque las normas APA permiten el uso de diferentes tipos de fuente, esta plantilla de \LaTeX usa exclusivamente Times New Roman pues en modo matemático (formulas, ecuaciones,...) es la única fuente que se puede usar y asi no se mesclan tipos de fuentes en el documento
+
+\thispagestyle{empty}
+
+%-----Si desea usar el archivo Campos_Plantilla_UdeA_LaTex_APA7_2022_ para llenar la información, seleccione o digite los datos en el documento de Word cuyo texto está coloreado, luego selecciones todo el contenido y ejecute la acción copiar; finalmente ejecutando pegar, reemplace los comandos de este archivo desde la línea 8 hasta la línea 83
+
+%--------------------reemplase desde aqui------------------
+%TÍTULO
+ \newcommand{\mititulo}{título del trabajo de grado  título del trabajo de grado título del trabajo de grado $\pi$}%---- elimine "título del trabajo de grado $\pi$" e ingrese aquí el título del documento
+ 
+%TÍTULO "CORTO" (que aparece en los encabezados de página)
+  \newcommand{\smalltitulo}{título del trabajo de grado  título del trabajo de grado título d...}%----Si el título es muy extenso, escriba en el campo anterior los primeros 60 caracteres (aproximadamente) del título y puntos suspensivos al final. Si no es tan extenso escriba el título completo en el campo anterior sin puntos suspensivos
+  
+ \begin{center}
+
+    \includegraphics[scale=0.72]{imagenes/escudo_udea.png}
+
+    \vspace{2cm}
+    \textbf{\mititulo} \\[2cm]%-----(en minúscula, y mayúscula cuando lo amerite: nombres propios, siglas, etc.). Título en negrita.
+    
+    %-----Ejemplo de autores (en minúsculas; no omitir ningún nombre o apellido; no abreviar ni dejar solo iniciales; marcar las tildes correspondientes).
+    Nombre del autor 1\\
+    Nombre del autor 2
+    
+    \vspace{2cm}
+    (tipo de trabajo) para optar al título de  (título otorgado por la UdeA)%-----Si deseas incluir el género o géneros de los integrantes, lo ingresas manualmente. Ejemplos: Bibliotecóloga, Bibliotecólogas, Bibliotecólogos.
+    
+    \vspace{2cm}
+    (Tipo de orientador)\\
+    (nombre del orientador), (título académico mas alto)%-----(en minúscula; no omitir ningún nombre o apellido; no abreviar ni dejar solo iniciales; marcar las tildes correspondientes).
+    
+    \vspace{1cm}
+    Universidad de Antioquia\\
+    (facultad, escuela, instituto o corporación UdeA)\\
+    (pregrado o posgrado UdeA )\\
+    (ciudad UdeA )\\
+    (año de grado) %------Determina con tu asesor cuál es el año para registrar: año de entrega del documento o año en que se recibe el título académico. 
+    
+    
+    
+    
+    \newpage
+    %--------------------------------------------------
+    
+    \thispagestyle{empty}
+    {\arrayrulecolor{verdeUdeA}
+    \footnotesize{\begin{tabular}{cm{10cm}} 
+    \noalign{\color{verdeUdeA}\hrule height 3pt}
+    \textbf{Cita} & \hspace{2cm}(Muñoz Zapata \& Martínez Naranjo, 2018) \\ \hline
+    %
+    \textbf{\parbox[c][1.6\height]{5cm}{\centerline{Referencia} 
+        \vspace*{0.5cm}\centerline{Estilo APA 7 (2020)}}}
+     & \hspace{-0.5cm}Muñoz Zapata, L., \& Martínez Naranjo, J. A. (2018). \textit{\mititulo} [Seleccione modalidad de grado]. Universidad de Antioquia, Seleccione ciudad UdeA (A-Z). \\ 
+    \noalign{\color{verdeUdeA}\hrule height 3pt}
+\end{tabular}}
+}
+\arrayrulecolor{black}
+
+\end{center}
+\vspace{-1.3cm}\includegraphics{imagenes/CC.jpg}\quad
+\includegraphics{imagenes/CCima.png}
+
+\vspace{1cm}
+\noindent (Posgrado UdeA (A-Z)), Cohorte (cohorte posgrado en numero romano). \\
+Grupo de Investigación (Grupo de investigación UdeA (A-Z).)  \\
+(Centro de investigación UdeA (A-Z)). \\[1cm]
+%
+\includegraphics[scale=0.35]{imagenes/escudo_udea_vice.png}\quad
+\includegraphics{imagenes/sis_biblo.png}\\
+%
+(Seleccione biblioteca, CRAI o centro de documentación UdeA (A-Z) )\\[1cm]
+%
+\textbf{Repositorio Institucional:} http://bibliotecadigital.udea.edu.co\\[1cm]
+%
+Universidad de Antioquia - www.udea.edu.co\\[0.5cm]
+\textbf{Rector:} Nombres y Apellidos.\\
+\textbf{Decano/Director} Nombres y Apellidos.\\
+\textbf{Jefe departamento:} Nombres y Apellidos.\\[1cm]
+%
+El contenido de esta obra corresponde al derecho de expresión de los autores y no compromete el pensamiento institucional de la Universidad de Antioquia ni desata su responsabilidad frente a terceros. Los autores asumen la responsabilidad por los derechos de autor y conexos.
+
+%--------------------reemplase hasta aqui------------------
+
+
+\newpage
+    %--------------------------------------------------
+    \thispagestyle{empty}
+\begin{center}
+    \textbf{Dedicatoria}
+    
+    Texto de dedicatoria centrado.\\[2cm]
+    
+    \textbf{Agradecimientos}
+    
+    Texto de agradecimientos centrado.    
+\end{center} 
+
+
+
+
+\newpage
+    %--------------------------------------------------
+    %\thispagestyle{empty}
+\pagestyle{empty}
+\addtocontents{toc}{\protect\thispagestyle{empty}}
+    \tableofcontents 
+    
+    
+    
+\newpage
+    %--------------------------------------------------
+    \thispagestyle{empty}
+     
+    %LO Tablas
+    \renewcommand{\listtablename}{Lista de tablas}
+    \listoftables
+    
+    
+    
+    
+\newpage
+    %--------------------------------------------------
+    \thispagestyle{empty}
+    
+    %LO Figuras
+    \renewcommand{\listfigurename}{Lista de figuras}
+    \listoffigures 
+    
+    
+    
+    
+\newpage
+    %--------------------------------------------------
+    \thispagestyle{empty}
+    
+\begin{center}
+    \textbf{Siglas, acrónimos y abreviaturas}    
+\end{center}
+
+\begin{tabular}{m{2cm}p{10cm}}
+    \textbf{APA}		&	American Psychological Association\\
+    \textbf{Cms.}	    &	Centímetros\\
+    \textbf{ERIC}	    &	Education Resources Information Center\\
+    \textbf{Esp.}	    &	Especialista\\
+    \textbf{MP}		    &	Magistrado Ponente\\
+    \textbf{MSc}		&	Magister Scientiae\\
+    \textbf{Párr.}	    &	Párrafo\\
+    \textbf{PhD}		&	Philosophiae Doctor\\
+    \textbf{PBQ-SF} 	&	Personality Belief Questionnaire Short Form\\
+    \textbf{PostDoc}	&	PostDoctor\\
+    \textbf{UdeA}	    &	Universidad de Antioquia
+\end{tabular}
+
+
+
