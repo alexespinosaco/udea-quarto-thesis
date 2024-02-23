@@ -16,11 +16,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus se
 | E    | F    | G    |
 | A    | G    | G    |
 
-: Una tabla sencilla. {#tbl-tabla}
+: Lorem ipsum dolor sit amet, consectetur adipiscing elit. {#tbl-tabla}
 
-Esta es la @tbl-tabla.
+| Col1 | Col2 | Col3 |
+|------|------|------|
+| X    | B    | C    |
+| E    | F    | G    |
+| A    | G    | G    |
 
-![Portada APA](images/portadaAPA2020.jpg){#fig-portada width=20%}
+: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellussagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitaepulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus auguequis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquetlacus, vitae rhoncus purus magna id ante. {#tbl-tabla2}
+
+Esta es la @tbl-tabla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellus sagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitae pulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus augue quis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquet lacus, vitae rhoncus purus magna id ante. Cras sollicitudin, nisl at interdum posuere, turpis quam pharetra turpis, a tristique quam magna tincidunt nisi. Praesent lacinia sapien eget turpis consectetur, nec sollicitudin odio laoreet. Sed eu molestie risus. Donec in est est. Sed vitae lobortis tortor.
+
+![Lorem ipsum dolor sit amet, consectetur adipiscing elit.](style-guide/Plantilla_UdeA_LaTeX_APA7_2022_v.1/imagenes/portadaAPA2020.jpg){#fig-portada width=20%}
+
+![Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellussagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitaepulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus auguequis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquetlacus, vitae rhoncus purus magna id ante.](style-guide/Plantilla_UdeA_LaTeX_APA7_2022_v.1/imagenes/escudo_udea.png){#fig-portada-2 width=20%}
 
 Esta es la @fig-portada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellus sagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitae pulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus augue quis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquet lacus, vitae rhoncus purus magna id ante. Cras sollicitudin, nisl at interdum posuere, turpis quam pharetra turpis, a tristique quam magna tincidunt nisi. Praesent lacinia sapien eget turpis consectetur, nec sollicitudin odio laoreet. Sed eu molestie risus. Donec in est est. Sed vitae lobortis tortor.
 
