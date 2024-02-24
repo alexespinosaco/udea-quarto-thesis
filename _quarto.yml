@@ -1,29 +1,37 @@
 project:
   type: udea-thesis
 
-lang: es
+date: today
+date-format: iso
 
-book:
-  title: "Título del trabajo de grado"
-  subtitle: "Subtítutlo del trabajo de grado"
-  author: 
-    - name: "Autor Trabajo-Grado"
-      affiliations:
-        - name: "Universidad de Antioquia"
-          department: "Instituto de Biología"
-  chapters: 
-    - index.qmd
-    - capitulo_01/index.qmd
-    - capitulo_02/index.qmd
-    - capitulo_03/index.qmd
-    - references.qmd
+lang: es
 
 bibliography: references.bib
 csl: apa.csl
 
-date: today
-date-format: "YYYY"
-
 format:
   udea-thesis-pdf: default
   udea-thesis-html: default
+
+book:
+  chapters: 
+    - index.qmd
+    # - capitulo_01/index.qmd
+    # - capitulo_02/index.qmd
+    # - capitulo_03/index.qmd
+    - references.qmd
+    
+title: "Título del trabajo de grado"
+subtitle: "Subtítutlo del trabajo de grado"
+author: 
+  - name: "Nombre Primer Autor"
+  - name: "Nombre Segundo Autor"
+tipo-documento: "Tipo de trabajo"
+titulo-otorgado: "otorgado por la UdeA"
+tipo-orientador: "Tipo de orientador"
+nombre-orientador: "Nombre del orientador"
+titulo_orientador: "título académico mas alto"
+unidad-academica: "facultad, escuela, instituto o corporación UdeA"
+programa: "pregrado o posgrado UdeA"
+ciudad: "ciudad UdeA"
+ano-grado: "año de grado"
