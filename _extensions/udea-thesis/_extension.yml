@@ -26,6 +26,7 @@ contributes:
       lot: true
       lof: true
       cap-location: top
+      
 
     pdf: 
       documentclass: scrreprt
@@ -47,8 +48,11 @@ contributes:
       include-in-header: 
         - header.tex
         - toc.tex
-      # template-partials:
-      # - before-body.tex
+      template-partials:
+        # - title.tex
+        - before-body.tex
+      format-resources: 
+        - escudo_udea.png
     
     html:
       css: styles.css
