@@ -50,3 +50,12 @@ biblioteca: "Nombre biblioteca, CRAI o centro de documentación"
 rector: "Nombres y Apellidos del rector"
 decano-director: "Nombres y Apellidos del decano o director"
 jefe-departamento: "Nombres y Apellidos del jefe de departamento"
+
+# cita:
+#   texto: "Texto de la cita"
+#   autor: "Autor de la cita"
+
+dedicatoria: |
+  Texto de dedicatoria
+agradecimientos: |
+  Texto de agradecimientos
