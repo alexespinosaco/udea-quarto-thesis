@@ -46,9 +46,25 @@ $endif$
 %-------------------------------------------------------------------------------
 
 \thispagestyle{empty}
-
+\begin{center}
+\begin{table}
+  \arrayrulecolor{verdeUdeA}
+  \footnotesize
+  \begin{tabular}{cm{10cm}} 
+    \noalign{\color{verdeUdeA}\hrule height 3pt}
+    \textbf{Cita} & \hspace{2cm}($citacion$, $ano-grado$) \\
+    \hline
+    \textbf{\parbox[c][1.6\height]{5cm}{\centerline{Referencia} 
+        \vspace*{0.5cm}\centerline{Estilo APA 7 (2020)}}}
+    & \hspace{-0.5cm}$referencia$ ($ano-grado$). \textit{$title$} [$modalidad-grado$]. Universidad de Antioquia, $ciudad$. \\ 
+    \noalign{\color{verdeUdeA}\hrule height 3pt}
+  \end{tabular}
+  \arrayrulecolor{black}
+\end{table}
+\end{center}
+%
 $if(licencia-tipo)$
-\vspace{-1.3cm}
+\vspace{-2.3cm}
 \noindent
 \includegraphics{assets/license/cc-logo.png}\quad
 \includegraphics{$licencia-tipo$}
@@ -74,3 +90,8 @@ $endif$
 {\textbf{Jefe departamento:} $jefe-departamento$}\\[1cm]
 %
 El contenido de esta obra corresponde al derecho de expresión de los autores y no compromete el pensamiento institucional de la Universidad de Antioquia ni desata su responsabilidad frente a terceros. Los autores asumen la responsabilidad por los derechos de autor y conexos.
+\newpage
+
+%----------------------------------------------------------------------------------------
+%	QUOTATION PAGE
+%----------------------------------------------------------------------------------------

@@ -22,7 +22,6 @@ book:
     - references.qmd
     
 title: "Título del trabajo de grado"
-subtitle: "Subtítutlo del trabajo de grado"
 author: 
   - name: "Nombre Primer Autor"
   - name: "Nombre Segundo Autor"
@@ -30,11 +29,15 @@ tipo-documento: "Tipo de trabajo"
 titulo-otorgado: "Nombre del título"
 tipo-orientador: "Tipo de orientador"
 nombre-orientador: "Nombre del orientador"
-titulo_orientador: "título académico mas alto"
-unidad-academica: "facultad, escuela, instituto o corporación"
-programa: "pregrado o posgrado"
-ciudad: "ciudad UdeA"
+titulo_orientador: "Título académico mas alto"
+unidad-academica: "Facultad, escuela, instituto o corporación"
+programa: "Pregrado o posgrado"
+ciudad: "Ciudad"
 ano-grado: "año de grado"
+
+citacion: "Primer Autor & Segundo Autor" # No incluir el año
+referencia: "Primer Autor, N. & Segundo Autor, N." # Sólo incluir los nombres
+modalidad-grado: "Modalidad de grado"
 
 licencia-tipo: assets/license/by-nc-sa.png
 
