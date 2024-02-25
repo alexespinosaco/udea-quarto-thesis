@@ -27,11 +27,23 @@ author:
   - name: "Nombre Primer Autor"
   - name: "Nombre Segundo Autor"
 tipo-documento: "Tipo de trabajo"
-titulo-otorgado: "otorgado por la UdeA"
+titulo-otorgado: "Nombre del título"
 tipo-orientador: "Tipo de orientador"
 nombre-orientador: "Nombre del orientador"
 titulo_orientador: "título académico mas alto"
-unidad-academica: "facultad, escuela, instituto o corporación UdeA"
-programa: "pregrado o posgrado UdeA"
+unidad-academica: "facultad, escuela, instituto o corporación"
+programa: "pregrado o posgrado"
 ciudad: "ciudad UdeA"
 ano-grado: "año de grado"
+
+licencia-tipo: assets/license/by-nc-sa.png
+
+cohorte-posgrado: "posgrado en numero romano"
+grupo-investigacion: "Nombre grupo de investigación"
+centro_investigacion: "Nombre centro de investigación"
+
+biblioteca: "Nombre biblioteca, CRAI o centro de documentación"
+
+rector: "Nombres y Apellidos del rector"
+decano-director: "Nombres y Apellidos del decano o director"
+jefe-departamento: "Nombres y Apellidos del jefe de departamento"
