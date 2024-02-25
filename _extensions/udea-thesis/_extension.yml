@@ -51,8 +51,8 @@ contributes:
       template-partials:
         # - title.tex
         - before-body.tex
-      format-resources: 
-        - escudo_udea.png
+      format-resources:
+        - \assets
     
     html:
       css: styles.css
