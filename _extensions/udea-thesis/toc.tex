@@ -1,23 +1,51 @@
 % configuración del TOC
 % hace que haya un interlineado entre cada item.
 
-\DeclareTOCStyleEntry[
-  entryformat=\normalfont\normalsize,
-  pagenumberformat={}
-]{tocline}{chapter}
+% \DeclareTOCStyleEntry[
+%   entryformat=\normalfont\normalsize,
+%   pagenumberformat={}
+% ]{tocline}{chapter}
+% 
+% \DeclareTOCStyleEntry[
+%   beforeskip=1em
+% ]{tocline}{section}
+% 
+% \DeclareTOCStyleEntry[
+% beforeskip=1em
+% ]{tocline}{subsection}
+% 
+% \DeclareTOCStyleEntry[
+% beforeskip=1em
+% ]{tocline}{subsubsection}
+% 
+% \DeclareTOCStyleEntry[
+% beforeskip=1em
+% ]{tocline}{paragraph}
 
-\DeclareTOCStyleEntry[
-  beforeskip=1em
-]{tocline}{section}
-
-\DeclareTOCStyleEntry[
-beforeskip=1em
-]{tocline}{subsection}
-
-\DeclareTOCStyleEntry[
-beforeskip=1em
-]{tocline}{subsubsection}
-
-\DeclareTOCStyleEntry[
-beforeskip=1em
-]{tocline}{paragraph}
+$if(toc)$
+$if(toc-title)$
+\renewcommand*\contentsname{$toc-title$}
+$endif$
+$if(beamer)$
+\begin{frame}[allowframebreaks]
+$if(toc-title)$
+  \frametitle{$toc-title$}
+$endif$
+  \tableofcontents[hideallsubsections]
+\end{frame}
+$else$
+{
+$if(colorlinks)$
+\hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$$endif$}
+$endif$
+\setcounter{tocdepth}{$toc-depth$}
+% \tableofcontents
+}
+$endif$
+$endif$
+$if(lof)$
+% \listoffigures
+$endif$
+$if(lot)$
+% \listoftables
+$endif$

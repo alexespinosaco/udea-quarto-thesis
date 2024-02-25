@@ -85,3 +85,27 @@
 \setlist[itemize,1]{label={\textbullet}, leftmargin=*}
 
 \usepackage{hhline, colortbl}
+
+% configuración del TOC
+% hace que haya un interlineado entre cada item.
+
+\DeclareTOCStyleEntry[
+  entryformat=\normalfont\normalsize,
+  pagenumberformat={}
+]{tocline}{chapter}
+
+\DeclareTOCStyleEntry[
+  beforeskip=1em
+]{tocline}{section}
+
+\DeclareTOCStyleEntry[
+beforeskip=1em
+]{tocline}{subsection}
+
+\DeclareTOCStyleEntry[
+beforeskip=1em
+]{tocline}{subsubsection}
+
+\DeclareTOCStyleEntry[
+beforeskip=1em
+]{tocline}{paragraph}

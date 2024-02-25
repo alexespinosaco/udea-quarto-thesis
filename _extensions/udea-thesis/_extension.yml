@@ -47,9 +47,10 @@ contributes:
       link-citations: true
       include-in-header: 
         - header.tex
-        - toc.tex
+        # - toc.tex
       template-partials:
         # - title.tex
+        - toc.tex
         - before-body.tex
       format-resources:
         - \assets
