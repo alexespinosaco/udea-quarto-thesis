@@ -1,5 +1,5 @@
 %-------------------------------------------------------------------------------
-%	TITLE PAGE
+%	PORTADA
 %-------------------------------------------------------------------------------
 
 $if(has-frontmatter)$
@@ -42,7 +42,7 @@ $endif$
 \newpage
 
 %-------------------------------------------------------------------------------
-%	CITATION PAGE
+%	CITACIÓN
 %-------------------------------------------------------------------------------
 
 \thispagestyle{empty}
@@ -92,6 +92,74 @@ $endif$
 El contenido de esta obra corresponde al derecho de expresión de los autores y no compromete el pensamiento institucional de la Universidad de Antioquia ni desata su responsabilidad frente a terceros. Los autores asumen la responsabilidad por los derechos de autor y conexos.
 \newpage
 
-%----------------------------------------------------------------------------------------
-%	QUOTATION PAGE
-%----------------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
+%	CITA
+%-------------------------------------------------------------------------------
+
+$if(cita)$
+
+\thispagestyle{empty}
+
+\vspace*{0.2\textheight}
+
+$if(cita.texto)$
+\noindent``{\itshape $cita.texto$}''\bigbreak
+
+\hfill {$cita.autor$}
+$else$
+\input{``$cita$''}
+$endif$
+
+$endif$
+\newpage
+
+%---------------------------------------------------------------------------------------
+%	DEDICATORIA
+%---------------------------------------------------------------------------------------
+
+$if(dedicatoria)$
+
+\thispagestyle{empty}
+
+\vspace*{0.3\textheight}
+
+{$dedicatoria$}
+
+$else$
+\input{"$dedicatoria$"}
+
+$endif$
+\newpage
+
+%-------------------------------------------------------------------------------
+%	AGRADECIMIENTOS
+%-------------------------------------------------------------------------------
+
+
+$if(agradecimientos)$
+\thispagestyle{empty}
+
+\addchap*{Agradecimientos}
+
+$agradecimientos$
+
+$else$
+\input{"$agradecimientos$"}
+
+$endif$
+\newpage
+
+%-------------------------------------------------------------------------------
+%	TOC, LOT, and LOF
+%-------------------------------------------------------------------------------
+% \renewcommand*\contentsname{$toc-title$}
+% \setcounter{tocdepth}{$toc-depth$}
+$if(toc)$
+\tableofcontents
+$endif$
+$if(lot)$
+\listoftables
+$endif$
+$if(lof)$
+\listoffigures
+$endif$
