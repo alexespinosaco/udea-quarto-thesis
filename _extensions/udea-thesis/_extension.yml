@@ -43,13 +43,11 @@ contributes:
       linkcolor: blue
       urlcolor: blue
       citecolor: red
-      toccolor: blue
+      # toccolor: red
       link-citations: true
       include-in-header: 
         - header.tex
-        # - toc.tex
       template-partials:
-        # - title.tex
         - toc.tex
         - before-body.tex
       format-resources:

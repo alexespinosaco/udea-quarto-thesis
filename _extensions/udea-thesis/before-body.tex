@@ -152,8 +152,17 @@ $endif$
 %-------------------------------------------------------------------------------
 %	TOC, LOT, and LOF
 %-------------------------------------------------------------------------------
-% \renewcommand*\contentsname{$toc-title$}
-% \setcounter{tocdepth}{$toc-depth$}
+
+\begingroup
+$if(toc-title)$
+\renewcommand*\contentsname{$toc-title$}
+$endif$
+$if(colorlinks)$
+\hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$$endif$}
+$endif$
+$if(toc-depth)$
+\setcounter{tocdepth}{$toc-depth$}
+$endif$
 $if(toc)$
 \tableofcontents
 $endif$
@@ -163,3 +172,4 @@ $endif$
 $if(lof)$
 \listoffigures
 $endif$
+\endgroup
