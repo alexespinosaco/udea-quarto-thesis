@@ -32,6 +32,7 @@ contributes:
 
     pdf: 
       documentclass: scrreprt
+      pdf-engine: pdflatex
       papersize: letterpaper
       geometry:
         - hmargin=2.5cm
