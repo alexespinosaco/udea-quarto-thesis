@@ -86,8 +86,17 @@
 
 \usepackage{hhline, colortbl}
 
+%-------------------------------------------------------------------------------
+%	TOC, LOT, Y LOF
+%-------------------------------------------------------------------------------
+
 % configuración del TOC
 % hace que haya un interlineado entre cada item.
+
+\DeclareTOCStyleEntry[
+  entryformat=\normalfont\normalsize,
+  pagenumberformat={}
+]{tocline}{part}
 
 \DeclareTOCStyleEntry[
   entryformat=\normalfont\normalsize,

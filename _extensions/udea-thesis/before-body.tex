@@ -122,9 +122,9 @@ $if(dedicatoria)$
 \thispagestyle{empty}
 
 \vspace*{0.3\textheight}
-
+\begin{center}
 {$dedicatoria$}
-
+\end{center}
 $else$
 \input{"$dedicatoria$"}
 
@@ -135,13 +135,12 @@ $endif$
 %	AGRADECIMIENTOS
 %-------------------------------------------------------------------------------
 
-
 $if(agradecimientos)$
 \thispagestyle{empty}
 
 \addchap*{Agradecimientos}
 
-$agradecimientos$
+\noindent{$agradecimientos$}
 
 $else$
 \input{"$agradecimientos$"}
@@ -150,10 +149,11 @@ $endif$
 \newpage
 
 %-------------------------------------------------------------------------------
-%	TOC, LOT, and LOF
+%	TOC, LOT, Y LOF
 %-------------------------------------------------------------------------------
 
 \begingroup
+\thispagestyle{empty}
 $if(toc-title)$
 \renewcommand*\contentsname{$toc-title$}
 $endif$
@@ -173,3 +173,16 @@ $if(lof)$
 \listoffigures
 $endif$
 \endgroup
+
+%-------------------------------------------------------------------------------
+%	ABREVIATURAS
+%-------------------------------------------------------------------------------
+
+$if(abreviaturas)$
+\thispagestyle{empty}
+
+\addchap*{Siglas, acrónimos y abreviaturas}
+
+\noindent\input{"$abreviaturas$"}
+
+$endif$

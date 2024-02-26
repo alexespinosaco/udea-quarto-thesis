@@ -16,10 +16,13 @@ format:
 book:
   chapters: 
     - index.qmd
-    # - capitulo_01/index.qmd
+    - capitulo_01/index.qmd
     # - capitulo_02/index.qmd
     # - capitulo_03/index.qmd
     - references.qmd
+  appendices: 
+    - anexos/anexo_01.qmd
+    - anexos/anexo_02.qmd
     
 title: "Título del trabajo de grado"
 author: 
@@ -59,3 +62,5 @@ dedicatoria: |
   Texto de dedicatoria
 agradecimientos: |
   Texto de agradecimientos
+
+abreviaturas: "abreviaturas.tex"

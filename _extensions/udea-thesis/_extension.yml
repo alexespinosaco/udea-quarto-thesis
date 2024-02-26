@@ -7,6 +7,8 @@ contributes:
   project:
     project:
       type: book
+    language:
+      section-title-appendices: "Anexos"
     book:
       sidebar:
         style: "floating"
@@ -14,7 +16,7 @@ contributes:
     crossref:
       lot-title: "Lista de tablas"
       lof-title: "Lista de figuras"
-
+  
   formats:
     
     common:

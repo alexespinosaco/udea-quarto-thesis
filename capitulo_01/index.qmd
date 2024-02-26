@@ -1,10 +1,57 @@
-# Header 1
+# Introducción
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellus sagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitae pulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus augue quis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquet lacus, vitae rhoncus purus magna id ante. Cras sollicitudin, nisl at interdum posuere, turpis quam pharetra turpis, a tristique quam magna tincidunt nisi. Praesent lacinia sapien eget turpis consectetur, nec sollicitudin odio laoreet. Sed eu molestie risus. Donec in est est. Sed vitae lobortis tortor.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellus sagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitae pulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus augue quis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquet lacus, vitae rhoncus purus magna id ante. Cras sollicitudin, nisl at interdum posuere, turpis quam pharetra turpis, a tristique quam magna tincidunt nisi. Praesent lacinia sapien eget turpis consectetur, nec sollicitudin odio laoreet. Sed eu molestie risus. Donec in est est. Sed vitae lobortis tortor.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellus sagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitae pulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus augue quis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquet lacus, vitae rhoncus purus magna id ante. Cras sollicitudin, nisl at interdum posuere, turpis quam pharetra turpis, a tristique quam magna tincidunt nisi. Praesent lacinia sapien eget turpis consectetur, nec sollicitudin odio laoreet. Sed eu molestie risus. Donec in est est. Sed vitae lobortis tortor.
 
 ## Header 2
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellus sagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitae pulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus augue quis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquet lacus, vitae rhoncus purus magna id ante. Cras sollicitudin, nisl at interdum posuere, turpis quam pharetra turpis, a tristique quam magna tincidunt nisi. Praesent lacinia sapien eget turpis consectetur, nec sollicitudin odio laoreet. Sed eu molestie risus. Donec in est est. Sed vitae lobortis tortor.
+
+| Col1 | Col2 | Col3 |
+|------|------|------|
+| A    | B    | C    |
+| E    | F    | G    |
+| A    | G    | G    |
+
+: Lorem ipsum dolor sit amet, consectetur adipiscing elit. {#tbl-tabla}
+
+| Col1 | Col2 | Col3 |
+|------|------|------|
+| X    | B    | C    |
+| E    | F    | G    |
+| A    | G    | G    |
+
+: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellussagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitaepulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus auguequis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquetlacus, vitae rhoncus purus magna id ante. {#tbl-tabla2}
+
+Esta es la @tbl-tabla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellus sagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitae pulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus augue quis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquet lacus, vitae rhoncus purus magna id ante. Cras sollicitudin, nisl at interdum posuere, turpis quam pharetra turpis, a tristique quam magna tincidunt nisi. Praesent lacinia sapien eget turpis consectetur, nec sollicitudin odio laoreet. Sed eu molestie risus. Donec in est est. Sed vitae lobortis tortor.
+
+![Lorem ipsum dolor sit amet, consectetur adipiscing elit.](../style-guide/Plantilla_UdeA_LaTeX_APA7_2022_v.1/imagenes/portadaAPA2020.jpg){#fig-portada width=20%}
+
+![Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellussagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitaepulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus auguequis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquetlacus, vitae rhoncus purus magna id ante.](../style-guide/Plantilla_UdeA_LaTeX_APA7_2022_v.1/imagenes/escudo_udea.png){#fig-portada-2 width=20%}
+
+Esta es la @fig-portada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellus sagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitae pulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus augue quis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquet lacus, vitae rhoncus purus magna id ante. Cras sollicitudin, nisl at interdum posuere, turpis quam pharetra turpis, a tristique quam magna tincidunt nisi. Praesent lacinia sapien eget turpis consectetur, nec sollicitudin odio laoreet. Sed eu molestie risus. Donec in est est. Sed vitae lobortis tortor.
+
+Como se vio en @CameronTrivedi2013. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellus sagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitae pulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus augue quis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquet lacus, vitae rhoncus purus magna id ante. Cras sollicitudin, nisl at interdum posuere, turpis quam pharetra turpis, a tristique quam magna tincidunt nisi. Praesent lacinia sapien eget turpis consectetur, nec sollicitudin odio laoreet. Sed eu molestie risus. Donec in est est. Sed vitae lobortis tortor.
+
+Esta es una [@CameronTrivedi2013]. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellus sagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitae pulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus augue quis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquet lacus, vitae rhoncus purus magna id ante. Cras sollicitudin, nisl at interdum posuere, turpis quam pharetra turpis, a tristique quam magna tincidunt nisi. Praesent lacinia sapien eget turpis consectetur, nec sollicitudin odio laoreet. Sed eu molestie risus. Donec in est est. Sed vitae lobortis tortor.
+
+Esto es una lista:
+
+* unordered list
+* unordered list
+* unordered list
+* unordered list
+    + sub-item 1
+    + sub-item 2
+        - sub-sub-item 1
+
+1. ordered list
+2. item 2
+    i) sub-item 1
+         A.  sub-sub-item 1
 
 ### Header 3
 
@@ -15,5 +62,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus se
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellus sagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitae pulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus augue quis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquet lacus, vitae rhoncus purus magna id ante. Cras sollicitudin, nisl at interdum posuere, turpis quam pharetra turpis, a tristique quam magna tincidunt nisi. Praesent lacinia sapien eget turpis consectetur, nec sollicitudin odio laoreet. Sed eu molestie risus. Donec in est est. Sed vitae lobortis tortor.
 
 ##### Header 5
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellus sagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitae pulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus augue quis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquet lacus, vitae rhoncus purus magna id ante. Cras sollicitudin, nisl at interdum posuere, turpis quam pharetra turpis, a tristique quam magna tincidunt nisi. Praesent lacinia sapien eget turpis consectetur, nec sollicitudin odio laoreet. Sed eu molestie risus. Donec in est est. Sed vitae lobortis tortor.
+
+## Header 2
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellus sagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitae pulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus augue quis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquet lacus, vitae rhoncus purus magna id ante. Cras sollicitudin, nisl at interdum posuere, turpis quam pharetra turpis, a tristique quam magna tincidunt nisi. Praesent lacinia sapien eget turpis consectetur, nec sollicitudin odio laoreet. Sed eu molestie risus. Donec in est est. Sed vitae lobortis tortor.
