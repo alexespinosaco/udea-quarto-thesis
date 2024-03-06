@@ -33,7 +33,7 @@ contributes:
     pdf: 
       documentclass: scrreprt
       pdf-engine: pdflatex
-      papersize: letterpaper
+      papersize: letter
       geometry:
         - hmargin=2.5cm
         - top=2.5cm
