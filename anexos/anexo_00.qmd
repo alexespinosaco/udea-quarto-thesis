@@ -1,0 +1,5 @@
+# Anexos
+
+En los anexos se incluye material complementario que apoya la documentación investigativa, tales como consentimientos informados, entrevistas, material fotográfico, etc. Evite incluir material que puede estar protegido por derechos de autor, tales como pruebas psicológicas, fragmentos de libros, artículos de revistas, patentes, etc. Recuerda no incluir en tu documento datos de personas o entidades objetos de la investigación, tales como nombres, apellidos, cédulas, números telefónicos, consentimientos informados con datos personales (Resolución 8430 de 1993), nombres de empresas sin el consentimiento escrito del representante legal, fotografías en primer plano de personas (especialmente de menores de edad) y demás información que pueda contravenir los principios emitidos en la Ley Estatutaria 1581 de 2012 (Ley de protección de datos personales).
+
+Los siguientes anexos contienen documentos de interés para el proceso de trabajo de grado, así como trucos y recomendaciones que surgen constantemente en la elaboración de un documento en Quarto.

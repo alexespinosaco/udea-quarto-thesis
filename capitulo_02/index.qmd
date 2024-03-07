@@ -1,19 +1,13 @@
-# Header 1
+# Justificación
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellus sagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitae pulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus augue quis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquet lacus, vitae rhoncus purus magna id ante. Cras sollicitudin, nisl at interdum posuere, turpis quam pharetra turpis, a tristique quam magna tincidunt nisi. Praesent lacinia sapien eget turpis consectetur, nec sollicitudin odio laoreet. Sed eu molestie risus. Donec in est est. Sed vitae lobortis tortor.
+Responde a los interrogantes del por qué se desea conocer el tema y por qué se seleccionó, así como cuál es el aporte que tendrá el texto a la ciencia. 
 
-## Header 2
+No abuse del uso de *cursivas* o **negritas** dentro del texto, úselas muy moderadamente, por lo general saturan y dificultan la lectura del documento. Utilice cursivas en casos muy particulares como géneros y especies (*Tyrannus melancholicus*), términos químicos (*Kr*), letras griegas ($\beta$) y algunos títulos y subtítulos. El entorno matemático de \LaTeX \ muestra las variables y símbolos en letra cursiva, asegúrese de hacer lo mismo al referenciarla en el documento, Utilice **negritas** en algunos títulos de capítulos y subcapítulos, algunos datos de tablas o enfatizar aspectos muy particulares. El uso de [texto subrayado]{.underline} no se recomienda en normas APA.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellus sagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitae pulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus augue quis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquet lacus, vitae rhoncus purus magna id ante. Cras sollicitudin, nisl at interdum posuere, turpis quam pharetra turpis, a tristique quam magna tincidunt nisi. Praesent lacinia sapien eget turpis consectetur, nec sollicitudin odio laoreet. Sed eu molestie risus. Donec in est est. Sed vitae lobortis tortor.
+Utilice moderadamente el uso de abreviaturas, se prefiere que el texto sea más largo y claro que corto y confuso para el lector. Por ejemplo, APA puede significar American Psychological Association o American Psychiatric Association. Sin embargo, las abreviaturas pueden ser útiles en casos como la repetición continua en un mismo párrafo.
 
-### Header 3
+Prefiera las comillas “inglesas” y ‘sencillas’ por sobre las «latinas» o «españolas».
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellus sagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitae pulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus augue quis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquet lacus, vitae rhoncus purus magna id ante. Cras sollicitudin, nisl at interdum posuere, turpis quam pharetra turpis, a tristique quam magna tincidunt nisi. Praesent lacinia sapien eget turpis consectetur, nec sollicitudin odio laoreet. Sed eu molestie risus. Donec in est est. Sed vitae lobortis tortor.
-
-#### Header 4
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellus sagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitae pulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus augue quis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquet lacus, vitae rhoncus purus magna id ante. Cras sollicitudin, nisl at interdum posuere, turpis quam pharetra turpis, a tristique quam magna tincidunt nisi. Praesent lacinia sapien eget turpis consectetur, nec sollicitudin odio laoreet. Sed eu molestie risus. Donec in est est. Sed vitae lobortis tortor.
-
-##### Header 5
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellus sagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitae pulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus augue quis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquet lacus, vitae rhoncus purus magna id ante. Cras sollicitudin, nisl at interdum posuere, turpis quam pharetra turpis, a tristique quam magna tincidunt nisi. Praesent lacinia sapien eget turpis consectetur, nec sollicitudin odio laoreet. Sed eu molestie risus. Donec in est est. Sed vitae lobortis tortor.
+-   **Características**: texto descriptivo.
+-   **Propiedades**: texto descriptivo.
+-   **Estructura**: texto descriptivo

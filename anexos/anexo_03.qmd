@@ -1,0 +1,17 @@
+# Recortar y abreviar direcciones web largas
+
+Eventualmente utilizamos páginas web, imágenes, documentos en línea, entre otros, y es necesario citarlas o mencionarlas en el texto; sin embargo, esos enlaces son supremamente largos, lo que le resta estética a la presentación del documento, ejemplo:\
+Largo: <https://www.youtube.com/watch?reload=9&v=tRH59E1aybE>\
+Corto: <https://bit.ly/3abhsgE>
+
+Utiliza una herramienta en línea para hacer de este enlace mucho más corto. Existe gran variedad de ellos, recomendamos algunos.
+
+-   <https://cutt.ly/>
+-   <https://bitly.com/>
+-   <https://tiny.cc/>
+-   <https://tinyurl.com/>
+
+Ejemplo realizado con Tiny URL <https://tiny.cc/> 
+Copiar y pega la URL larga en la casilla → Clic en Shorten → Posteriormente aparece la nueva URL corta → Clic en Copy → Pégala en el lugar del texto que la necesites.
+
+<!-- Quizá esto se pueda mejorar -->

@@ -1,3 +1,17 @@
-# Anexo 1
+# Autoarchivo en Repositorio y documentos de interés
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet metus sed tellus sagittis placerat. Maecenas convallis, nibh sed lacinia imperdiet, ante ante semper orci, vitae pulvinar nisl dui quis arcu. In fringilla vulputate erat consequat finibus. Sed dapibus augue quis venenatis mattis. Nulla ultricies, dolor interdum faucibus hendrerit, mauris enim aliquet lacus, vitae rhoncus purus magna id ante. Cras sollicitudin, nisl at interdum posuere, turpis quam pharetra turpis, a tristique quam magna tincidunt nisi. Praesent lacinia sapien eget turpis consectetur, nec sollicitudin odio laoreet. Sed eu molestie risus. Donec in est est. Sed vitae lobortis tortor.
+Al terminar todos los aspectos metodológicos, de redacción, de estructura y diagramación de tu tesis en Word, y con previo aval de la unidad académica, exporta el documento a versión PDF. Prepara también los anexos, si los tiene. Posteriormente, realiza la gestión de autoarchivo en el Repositorio Institucional <http://bibliotecadigital.udea.edu.co>, procedimiento que puedes consultar en video o versión PDF:
+
+-   Gestión de autoarchivo trabajos de grado (video): <https://bit.ly/3wx9U0E>
+-   Instructivo para el autoarchivo de trabajos de grado en el Repositorio Institucional Universidad de Antioquia (PDF): <https://bit.ly/3fOWbfB>
+
+Recuerda que ya no se entregan trabajos de grado en CD-ROM, únicamente mediante formato digital a través del Repositorio Institucional. Otros documentos de interés para el proceso de entrega de trabajos de grado:
+
+-   Formulario institucional de entrega y autorización de trabajos de grado en la Universidad de Antioquia (diligenciar solo para 2 autores o más): <https://bit.ly/2Q0sc9P>  
+-   Plantilla APA (ciencias sociales y humanas): <https://bit.ly/3fS0GWC> 
+-   Plantilla APA - \LaTeX \ (ingenierías, ciencias exactas y naturales, etc.): <https://bit.ly/3Lebmwf>
+-   Plantilla IEEE (ingenierías): <https://bit.ly/2PGnVIy>  
+-   Plantilla Vancouver (ciencias de la salud): <https://bit.ly/3uwljMt>  
+-   Plantilla Chicago (ciencias sociales y humanas): <https://bit.ly/3mYU5eH> 
+-   Resolución Rectoral 47233 (21 de agosto de 2020): por la cual se establecen los lineamientos para la entrega de la producción académica de pregrado y posgrado en sus diferentes formatos y presentaciones al Repositorio Institucional del Departamento de Bibliotecas: <https://bit.ly/2R629hP> 
+-   Políticas del Repositorio Institucional de la Universidad de Antioquia: <https://bit.ly/3t6dcG9> 

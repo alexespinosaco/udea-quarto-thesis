@@ -1,0 +1,20 @@
+# Introducción {.unnumbered}
+
+En la introducción se menciona claramente el para qué y el porqué del documento, se incluye el planteamiento del problema, el objetivo, preguntas de investigación, la justificación.
+
+Si bien se prefiere la narración en tercera persona (se realizaron las encuestas, se publicaron resultados, se establecieron parámetros, etc.), en Normas APA también se aprueba el uso de primera persona singular para un solo autor (realicé las encuestas) o primera persona plural (o mayestático) para dos o más autores (realizamos las encuestas); en todo caso, consulta con tu asesor el estilo a adoptar en la investigación[^index-1].
+
+[^index-1]: No utilices los pies de página para citas bibliográficas. Los pies de página se utilizan para complementar información del texto, procura que sean fragmentos cortos para no distraer o confundir al lector.
+
+No menos importante es la utilización de conectores que unen elementos de una oración, tener una buena variedad de estos enriquecen la estructura y redacción del texto. Algunos ejemplos:
+
+|                    |                       |                   |                   |
+|--------------------|-----------------------|-------------------|-------------------|
+| Sin embargo        | En efecto             | En conclusión     | Así               |
+| Puesto que         | Ya que                | En pocas palabras | Para concluir     |
+| Por consiguiente   | Ahora bien            | A continuación    | Luego             |
+| Dado que           | En cambio             | Acto seguido      | Resumiendo        |
+| Teniendo en cuenta | En cuanto a           | Con motivo de     | De igual manera   |
+| Entonces           | El siguiente punto es | A saber           | Al mismo tiempo   |
+| Simultáneamente    | Así pues              | De la misma forma | Probablemente     |
+| Posiblemente       | Recapitulando         | En síntesis       | Indiscutiblemente |

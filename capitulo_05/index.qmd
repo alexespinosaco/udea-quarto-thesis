@@ -1,0 +1,23 @@
+# Hipótesis
+
+La hipótesis es la creencia, la suposición o la conjetura de un fenómeno posible, es decir, independiente de si es verdadero o no. En la hipótesis se reúnen datos, se comparan y se escogen las explicaciones más probables. Dicho de otra forma, la hipótesis es la explicación probable de la relación entre dos o más variables.
+
+## Hipótesis de trabajo
+
+Texto descriptivo.
+
+## Hipótesis estadística
+
+Texto descriptivo.
+
+### Hipótesis nula
+
+Texto descriptivo.
+
+#### Hipótesis alterna
+
+Texto descriptivo inicia en la misma línea y continúa como párrafo normal APA.
+
+#### Variables
+
+Texto descriptivo inicia en la misma línea y continúa como párrafo normal APA.
