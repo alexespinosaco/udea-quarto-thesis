@@ -1,0 +1,7 @@
+# Métodos para elaborar citas y referencias
+
+Recuerda, debes escoger solo un método para realizar las citas y las referencias, es decir, debes seleccionar entre un gestor especializado como Mendeley, Zotero o EndNote (confiabilidad alta), el gestor nativo Microsoft Word (confiabilidad media) o “manuales” (confiabilidad baja); no se deben mezclar entre sí, nuestra recomendación principal es Mendeley, pues te permite almacenar, subrayar e insertar notas en PDF´s, guardar fichas bibliográficas, elaborar citas y bibliografías en APA, Vancouver, IEEE y más de 1.000 estilos diferentes, exportar registros, compartir documentos, etc. Para mayor información de Quarto y Zotero visitar: 
+
+[https://quarto.org/docs/visual-editor/technical.html#citations](https://quarto.org/docs/visual-editor/technical.html#citations)
+
+<!-- Falta agregar información -->
