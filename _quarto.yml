@@ -16,13 +16,26 @@ format:
 book:
   chapters: 
     - index.qmd
+    - capitulo_00/index.qmd
     - capitulo_01/index.qmd
-    # - capitulo_02/index.qmd
-    # - capitulo_03/index.qmd
-    - references.qmd
+    - capitulo_02/index.qmd
+    - capitulo_03/index.qmd
+    - capitulo_04/index.qmd
+    - capitulo_05/index.qmd
+    - capitulo_06/index.qmd
+    - capitulo_07/index.qmd
+    - capitulo_08/index.qmd
+    - capitulo_09/index.qmd
+    - capitulo_10/index.qmd
+    - capitulo_11/index.qmd
+    - capitulo_12/index.qmd
+    # - references.qmd
   appendices: 
+    - anexos/anexo_00.qmd
     - anexos/anexo_01.qmd
     - anexos/anexo_02.qmd
+    - anexos/anexo_03.qmd
+    - anexos/anexo_04.qmd
     
 title: "Título del trabajo de grado"
 author: 
