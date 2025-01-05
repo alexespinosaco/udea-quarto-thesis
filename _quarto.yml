@@ -11,7 +11,7 @@ csl: apa.csl
 
 format:
   udea-thesis-pdf: default
-  udea-thesis-html: default
+  # udea-thesis-html: default
 
 book:
   chapters: 

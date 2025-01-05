@@ -18,6 +18,6 @@ Texto descriptivo.
 
 Texto descriptivo inicia en la misma línea y continúa como párrafo normal APA.
 
-#### Variables
+##### Variables
 
 Texto descriptivo inicia en la misma línea y continúa como párrafo normal APA.

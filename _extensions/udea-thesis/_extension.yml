@@ -28,9 +28,8 @@ contributes:
       lot: true
       lof: true
       cap-location: top
-      
 
-    pdf: 
+    pdf:
       documentclass: scrreprt
       pdf-engine: pdflatex
       papersize: letter
@@ -48,15 +47,12 @@ contributes:
       citecolor: red
       # toccolor: red
       link-citations: true
-      include-in-header: 
+      include-in-header:
         - header.tex
       template-partials:
         - toc.tex
         - before-body.tex
       format-resources:
-        - \assets
-    
-    html:
-      css: styles.css
+        - assets/
 
 
