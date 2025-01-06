@@ -1,14 +1,12 @@
 %-------------------------------------------------------------------------------
 %	PORTADA
 %-------------------------------------------------------------------------------
-
 $if(has-frontmatter)$
 \frontmatter
 $endif$
 
 $if(title)$
 \cleardoublepage
-
 \thispagestyle{empty}
 
 {\centering
@@ -19,25 +17,44 @@ $if(title)$
 {\bfseries $title$}\\[2cm]
 
 \vspace{2cm}
+$if(by-author)$
 $for(by-author)$
+$if(by-author.name.literal)$
 {$by-author.name.literal$}\\
+$endif$
 $endfor$
+$endif$
 
 \vspace{2cm}
+$if(tipo-documento)$
 {$tipo-documento$ para optar al título de $titulo-otorgado$}
+$endif$
 
 \vspace{2cm}
+$if(tipo-orientador)$
 {$tipo-orientador$}\\
+$endif$
+$if(nombre-orientador)$
 {$nombre-orientador$, $titulo_orientador$}
+$endif$
 
-\vspace{1cm}
+\vspace{2cm}
+$if(unidad-academica)$
 {Universidad de Antioquia}\\
 {$unidad-academica$}\\
+$endif$
+$if(programa)$
 {$programa$}\\
+$endif$
+$if(ciudad)$
 {$ciudad$}\\
+$endif$
+$if(ano-grado)$
 {$ano-grado$}
+$endif$
 
 }
+
 $endif$
 \newpage
 
@@ -50,13 +67,13 @@ $endif$
 \begin{table}
   \arrayrulecolor{verdeUdeA}
   \footnotesize
-  \begin{tabular}{cm{10cm}} 
+  \begin{tabular}{cm{10cm}}
     \noalign{\color{verdeUdeA}\hrule height 3pt}
     \textbf{Cita} & \hspace{2cm}($citacion$, $ano-grado$) \\
     \hline
-    \textbf{\parbox[c][1.6\height]{5cm}{\centerline{Referencia} 
+    \textbf{\parbox[c][1.6\height]{5cm}{\centerline{Referencia}
         \vspace*{0.5cm}\centerline{Estilo APA 7 (2020)}}}
-    & \hspace{-0.5cm}$referencia$ ($ano-grado$). \textit{$title$} [$modalidad-grado$]. Universidad de Antioquia, $ciudad$. \\ 
+    & \hspace{-0.5cm}$referencia$ ($ano-grado$). \textit{$title$} [$modalidad-grado$]. Universidad de Antioquia, $ciudad$. \\
     \noalign{\color{verdeUdeA}\hrule height 3pt}
   \end{tabular}
   \arrayrulecolor{black}

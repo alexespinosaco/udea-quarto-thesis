@@ -1,20 +1,20 @@
 project:
   type: udea-thesis
 
-date: today
-date-format: iso
-
 lang: es
+date: 2025-01-05
+date-format: iso
 
 bibliography: references.bib
 csl: apa.csl
 
-format:
-  udea-thesis-pdf: default
-  # udea-thesis-html: default
-
 book:
-  chapters: 
+  title: "UdeA Quarto Thesis Template"
+  author:
+    - name: "Primer Autor"
+    - name: "Segundo Autor"
+  output-file: "manuscrito"
+  chapters:
     - index.qmd
     - capitulo_00/index.qmd
     - capitulo_01/index.qmd
@@ -29,18 +29,13 @@ book:
     - capitulo_10/index.qmd
     - capitulo_11/index.qmd
     - capitulo_12/index.qmd
-    # - references.qmd
   appendices: 
     - anexos/anexo_00.qmd
     - anexos/anexo_01.qmd
     - anexos/anexo_02.qmd
     - anexos/anexo_03.qmd
     - anexos/anexo_04.qmd
-    
-title: "Título del trabajo de grado"
-author: 
-  - name: "Nombre Primer Autor"
-  - name: "Nombre Segundo Autor"
+
 tipo-documento: "Tipo de trabajo"
 titulo-otorgado: "Nombre del título"
 tipo-orientador: "Tipo de orientador"
@@ -67,13 +62,17 @@ rector: "Nombres y Apellidos del rector"
 decano-director: "Nombres y Apellidos del decano o director"
 jefe-departamento: "Nombres y Apellidos del jefe de departamento"
 
-# cita:
-#   texto: "Texto de la cita"
-#   autor: "Autor de la cita"
+cita:
+  texto: "Texto de la cita"
+  autor: "Autor de la cita"
 
 dedicatoria: |
   Texto de dedicatoria
 agradecimientos: |
   Texto de agradecimientos
 
-abreviaturas: "abreviaturas.tex"
+# abreviaturas: "abreviaturas.tex"
+
+format:
+  udea-thesis-html: default
+  udea-thesis-pdf: default

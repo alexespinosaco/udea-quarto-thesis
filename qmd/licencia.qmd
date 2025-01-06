@@ -1,0 +1,32 @@
+# Licencia {.unnumbered}
+
+![](../assets/license/cc-logo.png){height=40} ![]({{< meta licencia-tipo >}}){height=40}
+
+\
+
+{{< meta programa >}}, {{< meta cohorte-posgrado >}}\
+{{< meta grupo-investigacion >}}\
+{{< meta centro_investigacion >}}\
+
+\
+
+![](assets/escudo_udea_vice.png){width="234"} ![](assets/sis_biblo.png){width="200"}\ 
+{{< meta biblioteca >}}
+
+\
+
+Repositorio Institucional: <http://bibliotecadigital.udea.edu.co>
+
+\
+
+Universidad de Antioquia - [www.udea.edu.co](https://udea.edu.co)
+
+<!-- \ -->
+
+**Rector:** {{< meta rector >}}\
+**Decano/Director:** {{< meta decano-director >}}\
+**Jefe departamento:** {{< meta jefe-departamento >}}\
+
+\
+
+El contenido de esta obra corresponde al derecho de expresión de los autores y no compromete el pensamiento institucional de la Universidad de Antioquia ni desata su responsabilidad frente a terceros. Los autores asumen la responsabilidad por los derechos de autor y conexos.

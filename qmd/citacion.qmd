@@ -1,0 +1,3 @@
+# Citación {.unnumbered}
+
+{{< meta citacion >}} ({{< meta ano-grado >}}). *{{< meta title >}}* \[{{< meta modalidad-grado >}}\]. Universidad de Antioquia, {{< meta ciudad >}}.

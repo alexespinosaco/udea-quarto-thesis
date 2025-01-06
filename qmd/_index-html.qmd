@@ -1,0 +1,14 @@
+::: {.content-visible when-format="html"}
+
+{{< meta tipo-documento >}} para optar al título de {{< meta titulo-otorgado >}}
+
+::: {.callout-note}
+Está viendo la versión web de esta tesis. Haga clic [aquí]({{< meta book.output-file >}}.pdf) o en el icono PDF del menú para ver la versión en PDF.
+:::
+
+> {{< meta dedicatoria >}}
+
+> *{{< meta cita.texto >}}*\
+> {{< meta cita.autor >}}
+
+:::

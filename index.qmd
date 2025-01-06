@@ -1,3 +1,9 @@
+::: {.content-visible when-format="html"}
+
+{{< include qmd/_index-html.qmd >}}
+
+:::
+
 # Resumen {.unnumbered}
 
 \noindent
@@ -13,3 +19,13 @@ El resumen permite identificar la esencia del escrito, mencionando brevemente el
 El abstract es el mismo resumen pero en idioma inglés. Conserva la misma extensión o aproximada, es decir, mínimo 150 y máximo 250 palabras.
 
 *Keywords:* scientific article, review article, research, citation styles
+
+::: {.content-visible when-format="html"}
+
+{{< include qmd/agradecimientos.qmd >}}
+
+{{< include qmd/citacion.qmd >}}
+
+{{< include qmd/licencia.qmd >}}
+
+:::
