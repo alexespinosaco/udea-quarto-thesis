@@ -1,0 +1,228 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Plantilla de Quarto para trabajos de grado de la Universidad de Antioquia",
+    "section": "",
+    "text": "Nota\n\n\n\nEstá viendo la versión web de esta tesis. Haga clic aquí o en el icono PDF del menú para ver la versión en PDF.\n\n\n\nTexto de dedicatoria\n\n\nTexto de la cita\nAutor de la cita\n\n\nResumen\n El resumen permite identificar la esencia del escrito, mencionando brevemente el objetivo y la metodología, así como los resultados y las conclusiones (mínimo 150, máximo 250 palabras).\nEsta es una demostración de la Plantilla de Quarto para trabajos de grado de la Universidad de Antioquia, diseñada conforme al formato de citación de la American Psychological Association [APA] (2020).\nPalabras claves: artículo científico, artículo de revisión, investigación, estilos de citación\n\n\n\nAbstract\n El abstract es el mismo resumen pero en idioma inglés. Conserva la misma extensión o aproximada, es decir, mínimo 150 y máximo 250 palabras.\nKeywords: scientific article, review article, research, citation styles\n\n\nAgradecimientos\nTexto de agradecimientos\n\n\nCitación\nPrimer Autor & Segundo Autor (año de grado). Plantilla de Quarto para trabajos de grado de la Universidad de Antioquia [Modalidad de grado]. Universidad de Antioquia, Ciudad.\n\n\nLicencia\n \n\n\nPregrado o posgrado, cohorte posgrado en numero romano\nNombre grupo de investigación\nNombre centro de investigación\n\n\n\n  \nNombre biblioteca, CRAI o centro de documentación\n\n\nRepositorio Institucional: http://bibliotecadigital.udea.edu.co\n\n\nUniversidad de Antioquia - www.udea.edu.co\n\nRector: Nombres y Apellidos del rector\nDecano/Director: Nombres y Apellidos del decano o director\nJefe departamento: Nombres y Apellidos del jefe de departamento\n\n\n\nEl contenido de esta obra corresponde al derecho de expresión de los autores y no compromete el pensamiento institucional de la Universidad de Antioquia ni desata su responsabilidad frente a terceros. Los autores asumen la responsabilidad por los derechos de autor y conexos.\n\n\n\n\nAmerican Psychological Association [APA] (Ed.). (2020). Publication Manual of the American Psychological Association (7.ª ed.). American Psychological Association.",
+    "crumbs": [
+      "Resumen"
+    ]
+  },
+  {
+    "objectID": "capitulos/00_introduccion.html",
+    "href": "capitulos/00_introduccion.html",
+    "title": "Introducción",
+    "section": "",
+    "text": "En la introducción se menciona claramente el para qué y el porqué del documento, se incluye el planteamiento del problema, el objetivo, preguntas de investigación, la justificación.",
+    "crumbs": [
+      "Introducción"
+    ]
+  },
+  {
+    "objectID": "capitulos/01_planteamiento-problema.html",
+    "href": "capitulos/01_planteamiento-problema.html",
+    "title": "1  Planteamiento del problema",
+    "section": "",
+    "text": "1.1 Antecedentes\nSe refiere al interrogante que lleva al investigador a buscar respuestas concretas. Es la definición del problema que aborda con la investigación.\nLos antecedentes son las investigaciones que se han realizado previamente y que guardan una relación histórica con el tema de investigación actual.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Planteamiento del problema</span>"
+    ]
+  },
+  {
+    "objectID": "capitulos/02_justificacion.html",
+    "href": "capitulos/02_justificacion.html",
+    "title": "2  Justificación",
+    "section": "",
+    "text": "Responde a los interrogantes del por qué se desea conocer el tema y por qué se seleccionó, así como cuál es el aporte que tendrá el texto a la ciencia.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Justificación</span>"
+    ]
+  },
+  {
+    "objectID": "capitulos/03_objetivos.html",
+    "href": "capitulos/03_objetivos.html",
+    "title": "3  Objetivos",
+    "section": "",
+    "text": "3.1 Objetivo general\nEl objetivo general y los objetivos específicos describen lo que se pretende con la investigación, cuál es el alcance y cuál es el problema que se desea resolver. Deben iniciarse con verbos que describan claramente lo que se lleva a cabo (p. ej. describir, analizar, demostrar, probar, comparar, eefinir, establecer, interpretar).",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Objetivos</span>"
+    ]
+  },
+  {
+    "objectID": "capitulos/03_objetivos.html#objetivos-especificos",
+    "href": "capitulos/03_objetivos.html#objetivos-especificos",
+    "title": "3  Objetivos",
+    "section": "3.2 Objetivos especificos",
+    "text": "3.2 Objetivos especificos",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Objetivos</span>"
+    ]
+  },
+  {
+    "objectID": "capitulos/04_problema-investigacion.html",
+    "href": "capitulos/04_problema-investigacion.html",
+    "title": "4  Problema de investigación",
+    "section": "",
+    "text": "El problema de investigación es el enunciado de lo que puede ser demostrado o encontrado, y de lo cual se requieren pruebas y evidencias.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Problema de investigación</span>"
+    ]
+  },
+  {
+    "objectID": "capitulos/05_hipotesis.html",
+    "href": "capitulos/05_hipotesis.html",
+    "title": "5  Hipótesis",
+    "section": "",
+    "text": "5.1 Hipótesis de trabajo\nLa hipótesis es la creencia, la suposición o la conjetura de un fenómeno posible, es decir, independiente de si es verdadero o no. En la hipótesis se reúnen datos, se comparan y se escogen las explicaciones más probables. Dicho de otra forma, la hipótesis es la explicación probable de la relación entre dos o más variables.\nTexto descriptivo.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Hipótesis</span>"
+    ]
+  },
+  {
+    "objectID": "capitulos/05_hipotesis.html#hipótesis-estadística",
+    "href": "capitulos/05_hipotesis.html#hipótesis-estadística",
+    "title": "5  Hipótesis",
+    "section": "5.2 Hipótesis estadística",
+    "text": "5.2 Hipótesis estadística\nTexto descriptivo.\n\n5.2.1 Hipótesis nula\nTexto descriptivo.\n\n5.2.1.1 Hipótesis alterna\nTexto descriptivo.\n\n5.2.1.1.1 Variables\nTexto descriptivo.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Hipótesis</span>"
+    ]
+  },
+  {
+    "objectID": "capitulos/06_marco-teorico.html",
+    "href": "capitulos/06_marco-teorico.html",
+    "title": "6  Marco teórico",
+    "section": "",
+    "text": "En esta sección se citan los autores que han tenido influencia directa en tu investigación.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Marco teórico</span>"
+    ]
+  },
+  {
+    "objectID": "capitulos/07_metodologia.html",
+    "href": "capitulos/07_metodologia.html",
+    "title": "7  Metodología",
+    "section": "",
+    "text": "En la metodología se establecen los enfoques de investigación, esto es, cuantitativo, cualitativo o mixto.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Metodología</span>"
+    ]
+  },
+  {
+    "objectID": "capitulos/08_resultados.html",
+    "href": "capitulos/08_resultados.html",
+    "title": "8  Resultados",
+    "section": "",
+    "text": "En los resultados se comunican los hallazgos y descubrimientos del estudio. Se incluyen tablas, figuras, diagramas y demás material demostrativo.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Resultados</span>"
+    ]
+  },
+  {
+    "objectID": "capitulos/09_discusion.html",
+    "href": "capitulos/09_discusion.html",
+    "title": "9  Discusión",
+    "section": "",
+    "text": "La discusión es la interpretación crítica y el análisis de los resultados, que surgen de las preguntas de investigación.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Discusión</span>"
+    ]
+  },
+  {
+    "objectID": "capitulos/10_conclusiones.html",
+    "href": "capitulos/10_conclusiones.html",
+    "title": "10  Conclusiones",
+    "section": "",
+    "text": "Son las interpretaciones finales que recopilan los datos de la investigación, describe lo que se obtuvo, qué se logró y cuáles son los resultados. Guardan relación directa con lo que se mencionó en el planteamiento del problema. Pueden confirmar las hipótesis.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Conclusiones</span>"
+    ]
+  },
+  {
+    "objectID": "capitulos/11_recomendaciones.html",
+    "href": "capitulos/11_recomendaciones.html",
+    "title": "11  Recomendaciones",
+    "section": "",
+    "text": "Las recomendaciones son las futuras y posibles líneas de investigación que llevarán a resolver problemas relacionados con la presente investigación.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Recomendaciones</span>"
+    ]
+  },
+  {
+    "objectID": "capitulos/12_referencias.html",
+    "href": "capitulos/12_referencias.html",
+    "title": "Referencias",
+    "section": "",
+    "text": "American Psychological Association [APA] (Ed.). (2020). Publication\nmanual of the American psychological association (7th\ned.). American Psychological Association.",
+    "crumbs": [
+      "Referencias"
+    ]
+  },
+  {
+    "objectID": "anexos/a00_anexos.html",
+    "href": "anexos/a00_anexos.html",
+    "title": "Anexo A — Anexos",
+    "section": "",
+    "text": "En los anexos se incluye material complementario que apoya la documentación investigativa, tales como consentimientos informados, entrevistas, material fotográfico, etc. Evite incluir material que puede estar protegido por derechos de autor, tales como pruebas psicológicas, fragmentos de libros, artículos de revistas, patentes, etc. Recuerda no incluir en tu documento datos de personas o entidades objetos de la investigación, tales como nombres, apellidos, cédulas, números telefónicos, consentimientos informados con datos personales (Resolución 8430 de 1993), nombres de empresas sin el consentimiento escrito del representante legal, fotografías en primer plano de personas (especialmente de menores de edad) y demás información que pueda contravenir los principios emitidos en la Ley Estatutaria 1581 de 2012 (Ley de protección de datos personales).\nLos siguientes anexos contienen documentos de interés para el proceso de trabajo de grado, así como trucos y recomendaciones que surgen constantemente en la elaboración de un documento en Quarto.",
+    "crumbs": [
+      "Anexos",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Anexos</span>"
+    ]
+  },
+  {
+    "objectID": "anexos/a01_recomendaciones.html",
+    "href": "anexos/a01_recomendaciones.html",
+    "title": "Anexo B — Recomendaciones",
+    "section": "",
+    "text": "Si bien se prefiere la narración en tercera persona (se realizaron las encuestas, se publicaron resultados, se establecieron parámetros, etc.), en Normas APA también se aprueba el uso de primera persona singular para un solo autor (realicé las encuestas) o primera persona plural (o mayestático) para dos o más autores (realizamos las encuestas); en todo caso, consulta con tu asesor el estilo a adoptar en la investigación1.\nNo menos importante es la utilización de conectores que unen elementos de una oración, tener una buena variedad de estos enriquecen la estructura y redacción del texto. Algunos ejemplos:\nNo abuse del uso de cursivas o negritas dentro del texto, úselas muy moderadamente, por lo general saturan y dificultan la lectura del documento. Utilice cursivas en casos muy particulares como géneros y especies (Tyrannus melancholicus), términos químicos (Kr), letras griegas (\\(\\beta\\)) y algunos títulos y subtítulos. Utilice negritas en algunos en algunos datos de tablas o enfatizar aspectos muy particulares. El uso de texto subrayado no se recomienda en normas APA.\nUtilice moderadamente el uso de abreviaturas, se prefiere que el texto sea más largo y claro que corto y confuso para el lector. Por ejemplo, APA puede significar American Psychological Association o American Psychiatric Association. Sin embargo, las abreviaturas pueden ser útiles en casos como la repetición continua en un mismo párrafo.\nPrefiera las comillas “inglesas” y ‘sencillas’ por sobre las «latinas» o «españolas».\nAl narrar descriptivamente una figura, tabla, etc., en un párrafo, puedes insertar una referencia cruzada, es decir, un hipervínculo al elemento mencionado dentro o fuera de paréntesis, ejemplos: estos resultados se muestran en la Tabla 1. Igualmente, los datos son validados con otros instrumentos (Tabla 2, Tabla 3). Lineamientos que se establecen en la nueva versión de las Normas APA séptima edición (Figura 1). La producción intelectual institucional se publica en el Repositorio (Figura 2).\nDebes escoger solo un método para realizar las citas y referencias, es decir, debes seleccionar entre gestores especializados como Mendeley, Zotero, EndNote, etc., Microsoft Word, o “Manuales”; no se deben mezclar entre sí. Nuestra recomendación principal es Zotero. Evita referenciar sitios como blogs, Wikipedia, Rincón del Vago, Monografías.com y demás portales web que no se consideran fuentes primarias. No limites tu búsqueda a una sola herramienta (por ejemplo, solo www.google.com). Realiza búsquedas en diferentes plataformas académicas, tales como:\nEjemplo de cita parafraseada, es decir, frase no textual adaptada con las palabras de quien escribe; esta forma de citación es la más adecuada en textos académicos, demuestran lectura, análisis y redacción propia (Arango, 2000). Ejemplo de “Cita textual menor a 40 palabras, al interior del párrafo. No utilice recurrentemente esta forma de citación, pues demuestra poco análisis y redacción propios” (Ramírez H. & Guzmán, s.f., p. 9). Otros ejemplos aceptados en estilo APA 7:\nUn autor en paráfrasis (Arango, 2000), dos autores en paráfrasis (Ramírez H. & Guzmán, s.f.), tres o más autores en paráfrasis (Baker et al., 2002), cita en paráfrasis sin fecha (Ramírez H. & Guzmán, s.f.), cita en paráfrasis con dos o más fuentes en un solo paréntesis, en orden alfabético, separados por punto y coma (Fundación del Español Urgente [Fundéu]; Hooper, 2010; Institute of Electrical and Electronics Engineers [IEEE], 2006).\nUn autor en “cita textual menor a 40 palabras” (Arango, 2000, p. 466), dos autores en “cita textual menor a 40 palabras” (Ramírez H. & Guzmán, 2015, p. 2), tres o más autores en “cita textual menor a 40 palabras” (Baker et al., 2002, p. 1281), autor corporativo en “cita textual de sitio web con número de párrafo” (El Espectador, 2012, párr. 9), cita “textual menor o mayor a 40 palabras omitiendo fragmentos intermedios (…) entre paréntesis y tres puntos” (Ruiz Rojas, 2014, p. 45), cita “textual menor a 40 palabras con páginas continuas” (Rioja, 2008, pp. 15-16), cita “textual menor a 40 palabras con páginas discontinuas” (González Pérez et al., 2006, pp. 15, 17).\nAutor corporativo sin siglas reconocibles en paráfrasis (Biblioteca Universidad de San Buenaventura, 2016), autor corporativo en paráfrasis, nombre completo, con sigla reconocida entre corchetes, primera cita (International Business Machine [IBM], 2013), las citas subsiguientes solo con la sigla reconocida entre paréntesis (IBM, 2013).\nCita de cita en paráfrasis (Quintero & González, 1997, citados por Rioja, 2008), cita de cita “textual menor a 40 palabras” (Quintero & González, 1997, citados Rioja, 2008, p. 36). Cita textual mayor a 40 palabras sin comillas:\nLas comunicaciones personales corresponden a cartas, memorandos, correos electrónicos, conversaciones telefónicas, entrevistas, presentaciones inéditas de clases, entre otras fuentes inéditas, que no proporcionan datos recuperables; se citan, pero no se incluyen en el listado de referencias (J. C. Ramírez, comunicación personal, 4 de julio, 2020).",
+    "crumbs": [
+      "Anexos",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Recomendaciones</span>"
+    ]
+  },
+  {
+    "objectID": "anexos/a01_recomendaciones.html#footnotes",
+    "href": "anexos/a01_recomendaciones.html#footnotes",
+    "title": "Anexo B — Recomendaciones",
+    "section": "",
+    "text": "No utilices los pies de página para citas bibliográficas. Los pies de página se utilizan para complementar información del texto, procura que sean fragmentos cortos para no distraer o confundir al lector.↩︎",
+    "crumbs": [
+      "Anexos",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Recomendaciones</span>"
+    ]
+  },
+  {
+    "objectID": "anexos/a02_autoarchivo.html",
+    "href": "anexos/a02_autoarchivo.html",
+    "title": "Anexo C — Autoarchivo en Repositorio y documentos de interés",
+    "section": "",
+    "text": "Al terminar todos los aspectos metodológicos, de redacción, de estructura y diagramación de tu trabajo de grado, y con previo aval de la unidad académica, exporta el documento a versión PDF. Prepara también los anexos, si los tiene. Posteriormente, realiza la gestión de autoarchivo en el Repositorio Institucional http://bibliotecadigital.udea.edu.co, procedimiento que puedes consultar en vídeo o versión PDF:\n\nGestión de autoarchivo trabajos de grado (vídeo): https://www.youtube.com/watch?v=I9hrs03gCug\n\n\n\nInstructivo para el autoarchivo de trabajos de grado en el Repositorio Institucional Universidad de Antioquia (PDF): https://bibliotecadigital.udea.edu.co/handle/10495/19131\n\nRecuerda que ya no se entregan trabajos de grado en CD-ROM, únicamente mediante formato digital a través del Repositorio Institucional. Otros documentos de interés para el proceso de entrega de trabajos de grado:\n\nFormulario institucional de entrega y autorización de trabajos de grado en la Universidad de Antioquia (diligenciar solo para 2 autores o más): https://bibliotecadigital.udea.edu.co/handle/10495/19164\nPlantilla APA (MS Word): https://bibliotecadigital.udea.edu.co/handle/10495/18841\nPlantilla APA (\\(\\LaTeX\\)) : https://bibliotecadigital.udea.edu.co/handle/10495/25851\nPlantilla IEEE: https://bibliotecadigital.udea.edu.co/handle/10495/18844\nPlantilla Vancouver: https://bibliotecadigital.udea.edu.co/handle/10495/18843\nPlantilla Chicago: https://bibliotecadigital.udea.edu.co/handle/10495/19341\nResolución Rectoral 47233 (21 de agosto de 2020): por la cual se establecen los lineamientos para la entrega de la producción académica de pregrado y posgrado en sus diferentes formatos y presentaciones al Repositorio Institucional del Departamento de Bibliotecas: https://bibliotecadigital.udea.edu.co/handle/10495/19133\nPolíticas del Repositorio Institucional de la Universidad de Antioquia: https://bibliotecadigital.udea.edu.co/handle/10495/19132",
+    "crumbs": [
+      "Anexos",
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>Autoarchivo en Repositorio y documentos de interés</span>"
+    ]
+  },
+  {
+    "objectID": "anexos/a03_citas-referencias.html",
+    "href": "anexos/a03_citas-referencias.html",
+    "title": "Anexo D — Métodos para elaborar citas y referencias",
+    "section": "",
+    "text": "Quarto facilita la gestión y formato de referencias bibliográficas gracias a su integración con Zotero y otros métodos (Crossref, DataCite, DOI o PubMed). Utilizando archivos en formato .bib o .csl, puedes citar directamente en el texto con comandos como @referencia y generar bibliografías automáticamente al final del documento. Además, Quarto soporta estilos personalizados, lo que permite adaptar las citas a normas específicas como APA, Vancouver o Chicago. Por lo tanto, nuestra recomendación principal es utilizar Zotero, pues te permite almacenar, subrayar e insertar notas en archivos PDF, guardar fichas bibliográficas, elaborar citas y bibliografías en APA, Vancouver, IEEE y más de 1000 estilos diferentes, exportar registros, compartir documentos, etc. Para comenzar a usar Zotero sigue estos pasos:\n\nCrear cuenta en Zotero: https://www.zotero.org/user/register/\nDescargar e instalar aplicación de escritorio de Zotero (Windows, Mac, Linux): https://www.zotero.org/download/\nIngresar email y clave en Zotero de escritorio.\n\nPara mayor información sobre el proceso de citación en Quarto visitar https://quarto.org/docs/authoring/citations.html y https://quarto.org/docs/visual-editor/technical.html#citations.",
+    "crumbs": [
+      "Anexos",
+      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Métodos para elaborar citas y referencias</span>"
+    ]
+  },
+  {
+    "objectID": "anexos/a04_citas-refencias-legales.html",
+    "href": "anexos/a04_citas-refencias-legales.html",
+    "title": "Anexo E — Citas y referencias de material legal (leyes, decretos, sentencias, etc.",
+    "section": "",
+    "text": "Uno de los aspectos que más puede causar confusión en Normas APA es lo referente a la citación de material legal y jurídico; de hecho, la misma American Psychological Association refiere al uso del manual internacional “Bluebook: A Uniform System of Citation” (este estilo está incluido en Zotero y otros gestores bibliográficos), pues estos dos estilos difieren en su formato de cita y referencia, pues las publicaciones legales citan las referencias al pie de página, en tanto que en el estilo APA se ubican todas las fuentes bibliográficas, incluyendo aquellas de materiales legales, en la lista de referencias. Si deseas conocer y adaptar los lineamientos del Bluebook, puedes consultarlos en https://www.legalbluebook.com/; asimismo, algunos ejemplos del manual de la APA están basados en el sistema jurídico estadounidense, lo que sin duda podría causar cierto conflicto con el entorno legal colombiano; ambos serán aceptados en los trabajos de grado y tesis de la Universidad de Antioquia.\nSin embargo, para facilitar y adaptar las citas y referencias al sistema legal y jurídico colombiano, recomendamos los siguientes lineamientos basados en Normas APA como primera alternativa de citación y referenciación de los materiales más comunes en Colombia, a saber, leyes, decretos, sentencias, resoluciones, códigos, constitución política, entre otros. La primera recomendación está basada en el prefijo Colombia. como autor corporativo estatal, luego la subentidad y el año. En Zotero esto se puede lograr insertando la referencia como Libro:\n\n\nEjemplo de cómo agregar la Constitución Política de Colombia en Zotero.\n\n\n\n\nEjemplos de citas y referencias (se incluye un ejemplo internacional de España).\n\n\n\n\n\n\nCita (al interior del texto)\nReferencias\n\n\n\n\n(Colombia. Presidencia de la República, 1991)\nColombia. Presidencia de la República. (1991). Constitución Política de Colombia. Presidencia de la República.\n\n\n(Colombia. Congreso de la República, 1994)\nColombia. Congreso de la República. (1994). Ley 133 de 1994 (mayo 23): por la cual se desarrolla el Decreto de Libertad Religiosa y de Cultos, reconocido en el artículo 19 de la Constitución Política. Diario Oficial.\n\n\n(Colombia. Presidencia de la República, 1998)\nColombia. Presidencia de la República. (1998). Decreto 1504 de 1998: por el cual se Reglamenta el Manejo del Espacio Público en los Planes de Ordenamiento Territorial. Diario Oficial.\n\n\n(Colombia. Congreso de la República, 2014)\nColombia. Congreso de la República. (2014). Ley 1733 de 2014: Ley Consuelo Devis Saavedra, mediante la cual se regulan los servicios de cuidados paliativos para el manejo integral de pacientes con enfermedades terminales, crónicas, degenerativas e irreversibles en cualquier fase de la enfermedad de alto impacto en la calidad de vida. Diario Oficial.\n\n\n(Colombia. Corte Constitucional, 2003a)\nColombia. Corte Constitucional. (2003a). Sentencia SU.805 de 2003: vía de hecho en proceso de lanzamiento por ocupacion de hecho / debido proceso de querellados - vulneración por actuaciones arbitrarias. M. P. Jaime Córdoba Triviño. Corte Constitucional.\n\n\n(Colombia. Corte Constitucional, 2003b)\nColombia. Corte Constitucional. (2003b). Sentencia T-361 de 2003: acción de tutela instaurada por Elkis Patricia Jiménez Castro contra la Universidad Cooperativa de Colombia – Seccional Santa Marta. M. P. Manuel José Cepeda Espinosa. Corte Constitucional.\n\n\n(Colombia. Corte Constitucional, 2006)\nColombia. Corte Constitucional. (2006). Sentencia T-264 de 2006: acción de tutela instaurada por Fanny Stella Lesmes Galarza, en representación de su menor hijo Paul Andrés Rodríguez Lesmes contra la Universidad de los Andes. M. P. Jaime Araújo Rentería. Corte Constitucional.\n\n\n(Colombia. Ministerio de Salud y Protección Social, 2012)\nColombia. Ministerio de Salud y Protección Social. (2012). Resolución 4331 de 2012 (diciembre 19): por medio de la cual se adiciona y modifica parcialmente la Resolución 3047 de 2008 modificada por la resolución 416 de 2009. Diario Oficial.\n\n\n(Colombia. Ministerio de Hacienda y Crédito Público. Superintendencia Financiera, 2006)\nColombia. Ministerio de Hacienda y Crédito Público. Superintendencia Financiera. (2006). Circular Externa 048 de 2006 (diciembre 22). Superfinanciera.\n\n\n(Colombia. Ministerio de Minas y Energía, 2010)\nColombia. Ministerio de Minas y Energía. (2010). Reglamento técnico de iluminación y alumbrado público. Ministerio de Minas y Energía.\n\n\n(Colombia. Ministerio de Ambiente, Vivienda y Desarrollo Territorial, 2007)\nColombia. Ministerio de Ambiente, Vivienda y Desarrollo Territorial. (2007). Decreto 3600 de 2007: por el cual se Reglamentan las Disposiciones de las Leyes 99 de 1993 y 388 de 1997 Relativas a las Determinantes de Ordenamiento del Suelo Rural y al Desarrollo de Actuaciones Urbanísticas de Parcelación y Edificación en este tipo de suelo y se adoptan otras disposiciones. Diario Oficial.\n\n\n(Colombia. Ministerio de Comunicaciones, 2001)\nColombia. Ministerio de Comunicaciones. (2001). Resolución 000797 de 2001 (junio 8): por la cual se atribuyen unas bandas de frecuencias radioeléctricas para su libre utilización dentro del territorio nacional. Diario Oficial.\n\n\n(Colombia. Ministerio de Educación Nacional, 2006)\nColombia. Ministerio de Educación Nacional. (2006). Plan Decenal de Educación 2006-2016: Pacto Social por la Educación. Ministerio de Educación Nacional.\n\n\n(Colombia. Congreso de la República, 2010)\nColombia. Congreso de la República. (2010). Código penal y de procedimiento penal anotado. Leyer.\n\n\n(Colombia. Congreso de la República, 2006)\nColombia. Congreso de la República. (2006). Ley 1098 de 2006 (noviembre 8): por la cual se expide el Código de la Infancia y la Adolescencia en Colombia. Diario Oficial.\n\n\n(Colombia. Contraloría General de la Nación, 2003)\nColombia. Contraloría General de la Nación. (2003). La deserción escolar en la educación básica media. Contraloría General de la Nación.\n\n\n(Colombia. Unidad Nacional para la Gestión del Riesgo de Desastres, 2012)\nColombia. Unidad Nacional para la Gestión del Riesgo de Desastres. (2012). Guía para la formulación del Plan Municipal de Gestión del Riesgo de Desastres. Sistema Nacional de Gestión del Riesgo de Desastres.\n\n\n(Colombia. Departamento Administrativo Nacional de Estadística, 2011)\nColombia. Departamento Administrativo Nacional de Estadística. (2011). Encuesta de convivencia escolar y circunstancias que la afectan - ECECA, para estudiantes de 5o a 11o de Bogotá. DANE.\n\n\n(Colombia. Departamento Administrativo de Ciencia, Tecnología e Innovación, 2015)\nColombia. Departamento Administrativo de Ciencia Tecnología e Innovación. (2015). Resultados finales de la Convocatoria Nacional para el Reconocimiento y Medición de Grupos de Investigación, Desarrollo Tecnológico o de Innovación y para el Reconocimiento de Investigadores del SNCTeI. Colciencias.\n\n\n(Colombia. Procuraduría General de la Nación, 2012)\nColombia. Procuraduría General de la Nación. (2012). Financiamiento del Sistema General de Seguridad Social en Salud: seguimiento y control preventivo a las políticas públicas. Procuraduría General de la Nación.\n\n\n(España. Ministerio de Trabajo y Asuntos Sociales. Instituto Nacional de Seguridad e Higiene en el Trabajo, 1996)\nEspaña. Ministerio de Trabajo y Asuntos Sociales. Instituto Nacional de Seguridad e Higiene en el Trabajo. (1996). Evaluación de riesgos laborales. INSHT.",
+    "crumbs": [
+      "Anexos",
+      "<span class='chapter-number'>E</span>  <span class='chapter-title'>Citas y referencias de material legal (leyes, decretos, sentencias, etc.</span>"
+    ]
+  }
+]
