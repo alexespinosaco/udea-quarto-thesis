@@ -18,7 +18,7 @@ Recuerda que ya no se entregan trabajos de grado en CD-ROM, únicamente mediante
 
 -   Plantilla APA (MS Word): <https://bibliotecadigital.udea.edu.co/handle/10495/18841>
 
--   Plantilla APA [(LaTeX)]{.content-visible unless-format="pdf"} [(\LaTeX)]{.content-visible when-format="pdf"}: <https://bibliotecadigital.udea.edu.co/handle/10495/25851>
+-   Plantilla APA [($\LaTeX$)]{.content-visible unless-format="pdf"} [(\LaTeX)]{.content-visible when-format="pdf"}: <https://bibliotecadigital.udea.edu.co/handle/10495/25851>
 
 -   Plantilla IEEE: <https://bibliotecadigital.udea.edu.co/handle/10495/18844>
 

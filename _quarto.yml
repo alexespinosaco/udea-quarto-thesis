@@ -42,7 +42,7 @@ tipo-documento: "Tipo de trabajo"
 titulo-otorgado: "Título ortorgado por la UdeA"
 tipo-orientador: "Tipo de orientador"
 nombre-orientador: "Nombre del orientador"
-titulo_orientador: "Título académico mas alto"
+titulo-orientador: "Título académico mas alto"
 unidad-academica: "Facultad, escuela, instituto o corporación"
 programa: "Pregrado o posgrado"
 ciudad: "Ciudad"
@@ -56,7 +56,7 @@ licencia-tipo: assets/license/by.png
 
 cohorte-posgrado: "cohorte posgrado en numero romano"
 grupo-investigacion: "Nombre grupo de investigación"
-centro_investigacion: "Nombre centro de investigación"
+centro-investigacion: "Nombre centro de investigación"
 
 biblioteca: "Nombre biblioteca, CRAI o centro de documentación"
 
