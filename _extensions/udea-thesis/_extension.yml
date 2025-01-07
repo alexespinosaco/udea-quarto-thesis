@@ -1,5 +1,5 @@
-title: UdeA Thesis Quarto Project
-author: Álex Espinosa-Correa
+title: "UdeA Quarto Thesis Project"
+author: "Álex Espinosa-Correa"
 version: 1.0.0
 quarto-required: ">=1.6.0"
 
@@ -7,17 +7,20 @@ contributes:
   project:
     project:
       type: book
-      language:
-      section-title-appendices: "Anexos"
     book:
       downloads: pdf
       sidebar:
         style: "floating"
       search: true
+    language:
+      es:
+        section-title-appendices: "Anexos"
     crossref:
       lot-title: "Lista de tablas"
       lof-title: "Lista de figuras"
-    format: upfthesis
+      appendix-title: "Anexo"
+      title-delim: ""
+    format: udea-thesis
 
   formats:
     common:
@@ -28,9 +31,13 @@ contributes:
       number-depth: 5
       cap-location: top
       link-citations: true
+      format-resources:
+        - assets/
     html:
-      theme: [cosmo, custom.scss]
-      chapter-number: true
+      theme:
+        open-graph: true
+        light: [cosmo, scss/theme-light.scss]
+        dark: [cosmo, scss/theme-dark.scss]
     pdf:
       documentclass: scrreprt
       papersize: letter
@@ -51,5 +58,5 @@ contributes:
       template-partials:
         - tex/before-body.tex
         - tex/toc.tex
-      format-resources:
-        - assets/
+    docx:
+    reference-doc: custom-reference-doc.docx
