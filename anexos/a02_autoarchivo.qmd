@@ -1,6 +1,6 @@
 # Autoarchivo en Repositorio y documentos de interés
 
-Al terminar todos los aspectos metodológicos, de redacción, de estructura y diagramación de tu tesis en Word, y con previo aval de la unidad académica, exporta el documento a versión PDF. Prepara también los anexos, si los tiene. Posteriormente, realiza la gestión de autoarchivo en el Repositorio Institucional <http://bibliotecadigital.udea.edu.co>, procedimiento que puedes consultar en vídeo o versión PDF:
+Al terminar todos los aspectos metodológicos, de redacción, de estructura y diagramación de tu trabajo de grado, y con previo aval de la unidad académica, exporta el documento a versión PDF. Prepara también los anexos, si los tiene. Posteriormente, realiza la gestión de autoarchivo en el Repositorio Institucional <http://bibliotecadigital.udea.edu.co>, procedimiento que puedes consultar en vídeo o versión PDF:
 
 -   Gestión de autoarchivo trabajos de grado (vídeo): <https://www.youtube.com/watch?v=I9hrs03gCug>
 
@@ -16,9 +16,9 @@ Recuerda que ya no se entregan trabajos de grado en CD-ROM, únicamente mediante
 
 -   Formulario institucional de entrega y autorización de trabajos de grado en la Universidad de Antioquia (diligenciar solo para 2 autores o más): <https://bibliotecadigital.udea.edu.co/handle/10495/19164>
 
--   Plantilla APA: <https://bibliotecadigital.udea.edu.co/handle/10495/18841>
+-   Plantilla APA (MS Word): <https://bibliotecadigital.udea.edu.co/handle/10495/18841>
 
--   Plantilla APA - \LaTeX: <https://bibliotecadigital.udea.edu.co/handle/10495/25851>
+-   Plantilla APA [(LaTeX)]{.content-visible unless-format="pdf"} [(\LaTeX)]{.content-visible when-format="pdf"}: <https://bibliotecadigital.udea.edu.co/handle/10495/25851>
 
 -   Plantilla IEEE: <https://bibliotecadigital.udea.edu.co/handle/10495/18844>
 

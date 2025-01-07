@@ -1,7 +1,7 @@
 ::: {.content-visible when-format="docx"}
 
 ::: {.callout-note}
-Está viendo la versión en MS Word de esta tesis, proporcionada unicamente para fines de revisión por parte de asesores o evaluadores. La versión final de esta tesis es la versión en PDF.
+Está viendo la versión en MS Word de trabajo de grado, proporcionada únicamente para fines de revisión por parte de asesores o evaluadores. La versión final de este trabajo de grado es la versión en PDF.
 :::
 
 :::
