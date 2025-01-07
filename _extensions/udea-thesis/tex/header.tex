@@ -1,6 +1,7 @@
 % TODO: Add custom LaTeX header directives here
 \usepackage{xcolor}
 \usepackage{scrlayer-scrpage}
+\usepackage{lscape}
 
 \KOMAoptions{
   % chapterprefix=false,
@@ -13,11 +14,19 @@
 
 \definecolor{verdeUdeA}{RGB}{83,129,53} % color de la UdeA
 
+% para visualizar las páginas en modo apaisado (horizontalmente)
+
+\newcommand{\blandscape}{\begin{landscape}}
+\newcommand{\elandscape}{\end{landscape}}
+
+% Configuración del estilo de encabezado y pie
+
 \KOMAoptions{
   headsepline=1pt, % grosor linea en head
   automark,
   autooneside=false
 }
+
 \pagestyle{scrheadings} % necesario para poner linea en head
 \setkomafont{headsepline}{\color{verdeUdeA}} % color linea en head
 

@@ -2,42 +2,44 @@ project:
   type: udea-thesis
 
 lang: es
-date: 2025-01-05
 date-format: iso
 
 bibliography: references.bib
 csl: apa.csl
 
 book:
-  title: "UdeA Quarto Thesis Template"
-  author:
-    - name: "Primer Autor"
-    - name: "Segundo Autor"
   output-file: "manuscrito"
+  date: 2025-01-07
+  site-url: https://alexespinosaco.github.io/udea-quarto-thesis/
+  repo-url: https://github.com/alexespinosaco/udea-quarto-thesis/
+  title: "Plantilla de Quarto para trabajos de grado de la Universidad de Antioquia"
+  author:
+    - name: "Nombre Primer Autor"
+    - name: "Nombre Segundo Autor"
   chapters:
     - index.qmd
-    - capitulo_00/index.qmd
-    - capitulo_01/index.qmd
-    - capitulo_02/index.qmd
-    - capitulo_03/index.qmd
-    - capitulo_04/index.qmd
-    - capitulo_05/index.qmd
-    - capitulo_06/index.qmd
-    - capitulo_07/index.qmd
-    - capitulo_08/index.qmd
-    - capitulo_09/index.qmd
-    - capitulo_10/index.qmd
-    - capitulo_11/index.qmd
-    - capitulo_12/index.qmd
+    - capitulos/00_introduccion.qmd
+    - capitulos/01_planteamiento-problema.qmd
+    - capitulos/02_justificacion.qmd
+    - capitulos/03_objetivos.qmd
+    - capitulos/04_problema-investigacion.qmd
+    - capitulos/05_hipotesis.qmd
+    - capitulos/06_marco-teorico.qmd
+    - capitulos/07_metodologia.qmd
+    - capitulos/08_resultados.qmd
+    - capitulos/09_discusion.qmd
+    - capitulos/10_conclusiones.qmd
+    - capitulos/11_recomendaciones.qmd
+    - capitulos/12_referencias.qmd
   appendices: 
-    - anexos/anexo_00.qmd
-    - anexos/anexo_01.qmd
-    - anexos/anexo_02.qmd
-    - anexos/anexo_03.qmd
-    - anexos/anexo_04.qmd
+    - anexos/a00_anexos.qmd
+    - anexos/a01_recomendaciones.qmd
+    - anexos/a02_autoarchivo.qmd
+    - anexos/a03_citas-referencias.qmd
+    - anexos/a04_citas-refencias-legales.qmd
 
 tipo-documento: "Tipo de trabajo"
-titulo-otorgado: "Nombre del título"
+titulo-otorgado: "Título ortorgado por la UdeA"
 tipo-orientador: "Tipo de orientador"
 nombre-orientador: "Nombre del orientador"
 titulo_orientador: "Título académico mas alto"
@@ -50,9 +52,9 @@ citacion: "Primer Autor & Segundo Autor" # No incluir el año
 referencia: "Primer Autor, N. & Segundo Autor, N." # Sólo incluir los nombres
 modalidad-grado: "Modalidad de grado"
 
-licencia-tipo: assets/license/by-nc-sa.png
+licencia-tipo: assets/license/by.png
 
-cohorte-posgrado: "posgrado en numero romano"
+cohorte-posgrado: "cohorte posgrado en numero romano"
 grupo-investigacion: "Nombre grupo de investigación"
 centro_investigacion: "Nombre centro de investigación"
 
@@ -76,3 +78,4 @@ agradecimientos: |
 format:
   udea-thesis-html: default
   udea-thesis-pdf: default
+  # udea-thesis-docx: default

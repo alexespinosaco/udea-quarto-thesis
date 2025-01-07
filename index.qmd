@@ -4,10 +4,19 @@
 
 :::
 
+::: {.content-visible when-format="docx"}
+
+{{< include qmd/_index-docx.qmd >}}
+
+:::
+
 # Resumen {.unnumbered}
 
 \noindent
-El resumen permite identificar la esencia del escrito, mencionando brevemente el objetivo y la metodología, así como los resultados y las conclusiones (mínimo 150, máximo 250 palabras).
+El resumen permite identificar la esencia del escrito, mencionando brevemente el objetivo y la metodología, así como los resultados y las conclusiones (mínimo 150, máximo 250 palabras). 
+
+Esta es una demostración de la {{< meta title >}}, diseñada conforme al formato de citación de la @apa2020.
+
 
 *Palabras claves:* artículo científico, artículo de revisión, investigación, estilos de citación
 

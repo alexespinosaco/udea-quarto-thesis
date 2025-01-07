@@ -1,6 +1,6 @@
 # Licencia {.unnumbered}
 
-![](../assets/license/cc-logo.png){height=40} ![]({{< meta licencia-tipo >}}){height=40}
+![](assets/license/cc-logo.png){height=40} ![]({{< meta licencia-tipo >}}){height=40}
 
 \
 
