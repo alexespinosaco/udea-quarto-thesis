@@ -1,0 +1,11 @@
+# Métodos para elaborar citas y referencias
+
+Quarto facilita la gestión y formato de referencias bibliográficas gracias a su integración con Zotero y otros métodos (Crossref, DataCite, DOI o PubMed). Utilizando archivos en formato `.bib` o `.csl`, puedes citar directamente en el texto con comandos como `@referencia` y generar bibliografías automáticamente al final del documento. Además, Quarto soporta estilos personalizados, lo que permite adaptar las citas a normas específicas como APA, Vancouver o Chicago. Por lo tanto, nuestra recomendación principal es utilizar Zotero, pues te permite almacenar, subrayar e insertar notas en archivos PDF, guardar fichas bibliográficas, elaborar citas y bibliografías en APA, Vancouver, IEEE y más de 1000 estilos diferentes, exportar registros, compartir documentos, etc. Para comenzar a usar Zotero sigue estos pasos:
+
+1.    Crear cuenta en Zotero: <https://www.zotero.org/user/register/>
+
+2.    Descargar e instalar aplicación de escritorio de Zotero (Windows, Mac, Linux): <https://www.zotero.org/download/>
+
+3.    Ingresar email y clave en Zotero de escritorio.
+
+Para mayor información sobre el proceso de citación en Quarto visitar <https://quarto.org/docs/authoring/citations.html> y <https://quarto.org/docs/visual-editor/technical.html#citations>.

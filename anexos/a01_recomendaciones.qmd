@@ -1,0 +1,58 @@
+# Recomendaciones
+
+Si bien se prefiere la narración en tercera persona (se realizaron las encuestas, se publicaron resultados, se establecieron parámetros, etc.), en Normas APA también se aprueba el uso de primera persona singular para un solo autor (realicé las encuestas) o primera persona plural (o mayestático) para dos o más autores (realizamos las encuestas); en todo caso, consulta con tu asesor el estilo a adoptar en la investigación[^index-1].
+
+[^index-1]: No utilices los pies de página para citas bibliográficas. Los pies de página se utilizan para complementar información del texto, procura que sean fragmentos cortos para no distraer o confundir al lector.
+
+No menos importante es la utilización de conectores que unen elementos de una oración, tener una buena variedad de estos enriquecen la estructura y redacción del texto. Algunos ejemplos:
+
+|                       |                   |
+|-----------------------|-------------------|
+| Sin embargo           | En conclusión     |
+| Puesto que            | En pocas palabras |
+| Por consiguiente      | A continuación    |
+| Dado que              | Acto seguido      |
+| Teniendo en cuenta    | Con motivo de     |
+| Entonces              | A saber           |
+| Simultáneamente       | De la misma forma |
+| Posiblemente          | En síntesis       |
+| En efecto             | Así               |
+| Ya que                | Para concluir     |
+| Ahora bien            | Luego             |
+| En cambio             | Resumiendo        |
+| En cuanto a           | De igual manera   |
+| El siguiente punto es | Al mismo tiempo   |
+| Así pues              | Probablemente     |
+| Recapitulando         | Indiscutiblemente |
+
+No abuse del uso de *cursivas* o **negritas** dentro del texto, úselas muy moderadamente, por lo general saturan y dificultan la lectura del documento. Utilice cursivas en casos muy particulares como géneros y especies (*Tyrannus melancholicus*), términos químicos (*Kr*), letras griegas ($\beta$) y algunos títulos y subtítulos. Utilice **negritas** en algunos en algunos datos de tablas o enfatizar aspectos muy particulares. El uso de [texto subrayado]{.underline} no se recomienda en normas APA.
+
+Utilice moderadamente el uso de abreviaturas, se prefiere que el texto sea más largo y claro que corto y confuso para el lector. Por ejemplo, APA puede significar American Psychological Association o American Psychiatric Association. Sin embargo, las abreviaturas pueden ser útiles en casos como la repetición continua en un mismo párrafo.
+
+Prefiera las comillas “inglesas” y ‘sencillas’ por sobre las «latinas» o «españolas».
+
+Al narrar descriptivamente una figura, tabla, etc., en un párrafo, puedes insertar una referencia cruzada, es decir, un hipervínculo al elemento mencionado dentro o fuera de paréntesis, ejemplos: estos resultados se muestran en la Tabla 1. Igualmente, los datos son validados con otros instrumentos (Tabla 2, Tabla 3). Lineamientos que se establecen en la nueva versión de las Normas APA séptima edición (Figura 1). La producción intelectual institucional se publica en el Repositorio (Figura 2).
+
+Debes escoger solo un método para realizar las citas y referencias, es decir, debes seleccionar entre gestores especializados como Mendeley, Zotero, EndNote, etc., Microsoft Word, o “Manuales”; no se deben mezclar entre sí. Nuestra recomendación principal es Zotero. Evita referenciar sitios como blogs, Wikipedia, Rincón del Vago, Monografías.com y demás portales web que no se consideran fuentes primarias. No limites tu búsqueda a una sola herramienta (por ejemplo, solo www.google.com). Realiza búsquedas en diferentes plataformas académicas, tales como:
+
+-   **Catálogo Sistema de Bibliotecas UdeA**: material impreso que reposa en Bibliotecas UdeA, tales como libros, revistas, tesis, diccionarios, informes, etc.
+
+-   **Bases de datos suscritas de la Biblioteca**: plataformas digitales con millones de documentos en texto completo.
+
+-   **Bases de datos de libre acceso**: Google Scholar, Microsoft Academic, Google Books, Redalyc, Scielo, Dialnet, DOAJ, PubMed, Base Search, entre muchas más.
+
+-   **Documentos con acceso restringido**: si requieres el texto completo de artículos o libros con acceso restringido, que por lo general se encuentran en bases de datos no suscritas por la Universidad de Antioquia, solicítalos en tu Biblioteca enviando título exacto, el DOI o la url del documento. Tenemos convenios nacionales e internacionales que nos permiten acceder a esta información.
+
+Ejemplo de cita parafraseada, es decir, frase no textual adaptada con las palabras de quien escribe; esta forma de citación es la más adecuada en textos académicos, demuestran lectura, análisis y redacción propia (Arango, 2000). Ejemplo de “Cita textual menor a 40 palabras, al interior del párrafo. No utilice recurrentemente esta forma de citación, pues demuestra poco análisis y redacción propios” (Ramírez H. & Guzmán, s.f., p. 9). Otros ejemplos aceptados en estilo APA 7:
+
+Un autor en paráfrasis (Arango, 2000), dos autores en paráfrasis (Ramírez H. & Guzmán, s.f.), tres o más autores en paráfrasis (Baker et al., 2002), cita en paráfrasis sin fecha (Ramírez H. & Guzmán, s.f.), cita en paráfrasis con dos o más fuentes en un solo paréntesis, en orden alfabético, separados por punto y coma (Fundación del Español Urgente [Fundéu]; Hooper, 2010; Institute of Electrical and Electronics Engineers [IEEE], 2006).
+
+Un autor en “cita textual menor a 40 palabras” (Arango, 2000, p. 466), dos autores en “cita textual menor a 40 palabras” (Ramírez H. & Guzmán, 2015, p. 2), tres o más autores en “cita textual menor a 40 palabras” (Baker et al., 2002, p. 1281), autor corporativo en “cita textual de sitio web con número de párrafo” (El Espectador, 2012, párr. 9), cita “textual menor o mayor a 40 palabras omitiendo fragmentos intermedios (…) entre paréntesis y tres puntos” (Ruiz Rojas, 2014, p. 45), cita “textual menor a 40 palabras con páginas continuas” (Rioja, 2008, pp. 15-16), cita “textual menor a 40 palabras con páginas discontinuas” (González Pérez et al., 2006, pp. 15, 17).
+
+Autor corporativo sin siglas reconocibles en paráfrasis (Biblioteca Universidad de San Buenaventura, 2016), autor corporativo en paráfrasis, nombre completo, con sigla reconocida entre corchetes, primera cita (International Business Machine [IBM], 2013), las citas subsiguientes solo con la sigla reconocida entre paréntesis (IBM, 2013).
+
+Cita de cita en paráfrasis (Quintero & González, 1997, citados por Rioja, 2008), cita de cita “textual menor a 40 palabras” (Quintero & González, 1997, citados Rioja, 2008, p. 36). Cita textual mayor a 40 palabras sin comillas:
+
+> Por su parte la necesidad de persuadir conduce a pensar el material probatorio dependiendo del ánimo de quien escucha. En síntesis, el componente lógico se fundamenta en la selección de argumentos verosímiles, lo cual conduce directamente al componente dialéctico de la argumentación en tanto la parte psicológica remite a un aspecto discursivo. (Ruiz Rojas, 2014, p. 107) 
+
+Las comunicaciones personales corresponden a cartas, memorandos, correos electrónicos, conversaciones telefónicas, entrevistas, presentaciones inéditas de clases, entre otras fuentes inéditas, que no proporcionan datos recuperables; se citan, pero no se incluyen en el listado de referencias (J. C. Ramírez, comunicación personal, 4 de julio, 2020).
