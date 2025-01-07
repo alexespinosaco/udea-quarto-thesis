@@ -1,0 +1,31 @@
+# Autoarchivo en Repositorio y documentos de interés
+
+Al terminar todos los aspectos metodológicos, de redacción, de estructura y diagramación de tu tesis en Word, y con previo aval de la unidad académica, exporta el documento a versión PDF. Prepara también los anexos, si los tiene. Posteriormente, realiza la gestión de autoarchivo en el Repositorio Institucional <http://bibliotecadigital.udea.edu.co>, procedimiento que puedes consultar en vídeo o versión PDF:
+
+-   Gestión de autoarchivo trabajos de grado (vídeo): <https://www.youtube.com/watch?v=I9hrs03gCug>
+
+::: {.content-visible when-format="html"}
+
+{{< video https://www.youtube.com/watch?v=I9hrs03gCug >}}
+
+:::
+
+-   Instructivo para el autoarchivo de trabajos de grado en el Repositorio Institucional Universidad de Antioquia (PDF): <https://bibliotecadigital.udea.edu.co/handle/10495/19131>
+
+Recuerda que ya no se entregan trabajos de grado en CD-ROM, únicamente mediante formato digital a través del Repositorio Institucional. Otros documentos de interés para el proceso de entrega de trabajos de grado:
+
+-   Formulario institucional de entrega y autorización de trabajos de grado en la Universidad de Antioquia (diligenciar solo para 2 autores o más): <https://bibliotecadigital.udea.edu.co/handle/10495/19164>
+
+-   Plantilla APA: <https://bibliotecadigital.udea.edu.co/handle/10495/18841>
+
+-   Plantilla APA - \LaTeX: <https://bibliotecadigital.udea.edu.co/handle/10495/25851>
+
+-   Plantilla IEEE: <https://bibliotecadigital.udea.edu.co/handle/10495/18844>
+
+-   Plantilla Vancouver: <https://bibliotecadigital.udea.edu.co/handle/10495/18843>
+
+-   Plantilla Chicago: <https://bibliotecadigital.udea.edu.co/handle/10495/19341>
+
+-   Resolución Rectoral 47233 (21 de agosto de 2020): por la cual se establecen los lineamientos para la entrega de la producción académica de pregrado y posgrado en sus diferentes formatos y presentaciones al Repositorio Institucional del Departamento de Bibliotecas: <https://bibliotecadigital.udea.edu.co/handle/10495/19133>
+
+-   Políticas del Repositorio Institucional de la Universidad de Antioquia: <https://bibliotecadigital.udea.edu.co/handle/10495/19132>

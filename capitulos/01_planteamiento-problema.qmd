@@ -2,8 +2,6 @@
 
 Se refiere al interrogante que lleva al investigador a buscar respuestas concretas. Es la definición del problema que aborda con la investigación.
 
-<!-- Agregar información sobre Quarto -->
-
 ## Antecedentes
 
-Los antecedentes son las investigaciones que se han realizado previamente y que guardan una relación histórica con el tema de investigación actual. 
+Los antecedentes son las investigaciones que se han realizado previamente y que guardan una relación histórica con el tema de investigación actual.

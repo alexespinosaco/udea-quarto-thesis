@@ -1,0 +1,3 @@
+# Introducción {.unnumbered}
+
+En la introducción se menciona claramente el para qué y el porqué del documento, se incluye el planteamiento del problema, el objetivo, preguntas de investigación, la justificación.

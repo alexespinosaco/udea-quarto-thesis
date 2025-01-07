@@ -16,8 +16,8 @@ Texto descriptivo.
 
 #### Hipótesis alterna
 
-Texto descriptivo inicia en la misma línea y continúa como párrafo normal APA.
+Texto descriptivo.
 
 ##### Variables
 
-Texto descriptivo inicia en la misma línea y continúa como párrafo normal APA.
+Texto descriptivo.

@@ -1,5 +1,3 @@
 # Resultados
 
 En los resultados se comunican los hallazgos y descubrimientos del estudio. Se incluyen tablas, figuras, diagramas y demás material demostrativo.
-
-<!-- Falta agregar información -->
