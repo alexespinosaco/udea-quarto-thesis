@@ -132,7 +132,7 @@ Esto instalará la extensión y creará los archivos mencionados anteriormente.
 Desde el directorio del proyecto o documento Quarto, ejecute en la Terminal:
 
 ```bash
-quarto add template alexespinosaco/udea-quarto-thesis
+quarto add alexespinosaco/udea-quarto-thesis
 ```
 
 Este formato puede ser utilizado con un proyecto o documento Quarto existente. Esto instalará sólo los archivos en la carpeta `_extension` y no instalará los archivos por encima de eso (los archivos de demostración). Esta es también la forma de actualizar la extensión si ha habido cambios.
