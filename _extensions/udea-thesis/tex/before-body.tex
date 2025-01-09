@@ -88,12 +88,20 @@ $if(licencia-tipo)$
 $endif$
 
 \vspace{1cm}
-$if(cohorte-posgrado)$
+$if(programa)$
 \noindent
-{$programa$, Cohorte $cohorte-posgrado$}\\
-{Grupo de Investigación $grupo-investigacion$}\\
-{$centro-investigacion$}\\[1cm]
+{$programa$ $if(cohorte-posgrado)$ {, Cohorte $cohorte-posgrado$}$endif$}\\
 $endif$
+$if(grupo-investigacion)$
+\noindent
+{Grupo de Investigación $grupo-investigacion$}\\
+$endif$
+$if(centro-investigacion)$
+\noindent
+{$centro-investigacion$}\\
+$endif$
+%
+[1cm]
 %
 \includegraphics{assets/escudo_udea_vice.png}\quad
 \includegraphics{assets/sis_biblo.png}\\
@@ -102,10 +110,17 @@ $endif$
 {\textbf{Repositorio Institucional:} \url{http://bibliotecadigital.udea.edu.co}}\\[1cm]
 {Universidad de Antioquia - \url{www.udea.edu.co}}\\[0.5cm]
 %
+$if(rector)$
 {\textbf{Rector:} $rector$}\\
+$endif$
+$if(decano-director)$
 {\textbf{Decano/Director:} $decano-director$}\\
-{\textbf{Jefe departamento:} $jefe-departamento$}\\[1cm]
+$endif$
+$if(jefe-departamento)$
+{\textbf{Jefe departamento:} $jefe-departamento$}\\
+$endif$
 %
+[1cm]
 El contenido de esta obra corresponde al derecho de expresión de los autores y no compromete el pensamiento institucional de la Universidad de Antioquia ni desata su responsabilidad frente a terceros. Los autores asumen la responsabilidad por los derechos de autor y conexos.
 \newpage
 
