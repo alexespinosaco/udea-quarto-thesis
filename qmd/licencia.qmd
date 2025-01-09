@@ -5,7 +5,7 @@
 \
 
 {{< meta programa >}}, {{< meta cohorte-posgrado >}}\
-{{< meta grupo-investigacion >}}\
+Grupo de Investigación {{< meta grupo-investigacion >}}\
 {{< meta centro-investigacion >}}\
 
 \

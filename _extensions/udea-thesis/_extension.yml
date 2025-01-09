@@ -50,7 +50,8 @@ contributes:
       fontsize: 12pt
       linkcolor: blue
       urlcolor: blue
-      citecolor: red
+      citecolor: blue
+      filecolor: blue
       lof: true
       lot: true
       include-in-header:
